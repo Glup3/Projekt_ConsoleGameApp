@@ -65,5 +65,8 @@
   <ItemGroup>
     <Folder Include="XML\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Projekt.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

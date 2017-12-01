@@ -249,14 +249,14 @@ namespace Projekt_ConsoleGameApp
         }
 
         /// <summary>
-        /// Erstellt einen XML Tree für Helden aus einer Liste von Helden <see cref="Hero"/>
+        /// Erstellt einen XML Tree für Helden aus einer Liste von Helden (<see cref="Hero"/>)
         /// </summary>
         /// <param name="heroes">Liste von Heroes</param>
         /// <returns>XML Tree Heroes</returns>
         public static XElement Create_Heroes_Tree(List<Hero> heroes)
         {
             List<XElement> erg = new List<XElement>();
-            heroes.ForEach(a => erg.Add(DataGenerator.Create_Hero_Tree(a)));
+            heroes.ForEach(a => erg.Add(Create_Hero_Tree(a)));
 
             return Create_Heroes_Tree(erg);
         }
@@ -286,24 +286,51 @@ namespace Projekt_ConsoleGameApp
         }
 
         /// <summary>
-        /// Erstellt einen XML Tree für Monster (<see cref="Monster"/>)
+        /// Erstellt einen XML Tree für ein Monster (<see cref="Monster"/>)
         /// </summary>
-        /// <param name="monster"></param>
-        /// <returns>XML Tree</returns>
-        public static List<XElement> Create_Monster_Tree(List<Monster> monster)
+        /// <param name="m">Ein Monster</param>
+        /// <returns>XML Tree Monster</returns>
+        public static XElement Create_Monster_Tree(Monster m)
         {
-            return (from m in monster
-                   select new XElement("Monster",
-                       new XAttribute("Rasse", m.MonsterRace),
-                       new XAttribute("Seltenheit", m.MonsterRarity),
-                       new XElement("Lebenspunkte", m.HP),
-                       new XElement("Angriffsschaden", m.AttackDamage),
-                       new XElement("Rüstung", m.Armor),
-                       new XElement("Level", m.Level),
-                       new XElement("Erfahrungspunkte", m.ExperiencePoints),
-                       new XElement("Geschwindigkeit", m.MovementSpeed),
-                       new XElement("Alter", m.Age))).ToList();
+            return new XElement("Monster",
+                        new XAttribute("Rasse", m.MonsterRace),
+                        new XAttribute("Seltenheit", m.MonsterRarity),
+                        new XElement("Lebenspunkte", m.HP),
+                        new XElement("Angriffsschaden", m.AttackDamage),
+                        new XElement("Rüstung", m.Armor),
+                        new XElement("Level", m.Level),
+                        new XElement("Erfahrungspunkte", m.ExperiencePoints),
+                        new XElement("Geschwindigkeit", m.MovementSpeed),
+                        new XElement("Alter", m.Age));
         }
+
+        /// <summary>
+        /// Erstellt einen XML Tree für Monsters aus einer Liste von XElementen
+        /// </summary>
+        /// <param name="monsters">XML Liste von Monstern</param>
+        /// <returns>XML Tree Monsters</returns>
+        public static XElement Create_Monsters_Tree(List<XElement> monsters)
+        {
+            return new XElement("Monsters",
+                        from m in monsters
+                        select m);
+        }
+
+        /// <summary>
+        /// Erstellt einen XML Tree für Monsters aus einer Liste von Monstern
+        /// </summary>
+        /// <param name="monsters">Liste von Monstern</param>
+        /// <returns>XML Tree Monsters</returns>
+        public static XElement Create_Monsters_Tree(List<Monster> monsters)
+        {
+            List<XElement> erg = new List<XElement>();
+            monsters.ForEach(m => erg.Add(Create_Monster_Tree(m)));
+
+            return Create_Monsters_Tree(erg);
+        }
+
+
+
 
         //public static List<XElement> Create_Player_Tree(List<Hero> heroes, PlayerList player)
         //{
