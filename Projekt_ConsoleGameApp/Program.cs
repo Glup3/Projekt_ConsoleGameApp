@@ -19,7 +19,7 @@ namespace Projekt_ConsoleGameApp
                 liste2.Add(DataGenerator.Create_Hero_Tree(DataGenerator.Create_Random_Hero()));
             }
 
-            Console.WriteLine(DataGenerator.Create_Heros_Tree(liste2));
+            Console.WriteLine(DataGenerator.Create_Heroes_Tree(liste2));
 
             //liste3.ForEach(a => Console.WriteLine(a));
 

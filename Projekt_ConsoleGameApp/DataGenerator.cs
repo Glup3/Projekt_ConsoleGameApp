@@ -223,11 +223,11 @@ namespace Projekt_ConsoleGameApp
         /// Erstellt einen zufälligen Spieler
         /// </summary>
         /// <returns>Spieler</returns>
-        public static Player Create_Random_Player(List<Hero> heros)
+        public static Player Create_Random_Player(List<Hero> heroes)
         {
             return new Player
             {
-                Heros = heros,
+                Heroes = heroes,
                 InGameName = Random_String(12),
                 Money = Random_Money(),
                 Password = Random_String(16),
@@ -237,23 +237,35 @@ namespace Projekt_ConsoleGameApp
         }
 
         /// <summary>
-        /// Erstellt einen XML Tree für Helden, liste von (<see cref="Hero"/>)
+        /// Erstellt einen XML Tree für Helden aus einer Liste von XElementen
         /// </summary>
-        /// <param name="heros">XElement Collection von Helden</param>
-        /// <returns>XML Tree</returns>
-        /// 
-        public static XElement Create_Heros_Tree(List<XElement> heros)
+        /// <param name="heroes">XElement Collection von Helden</param>
+        /// <returns>XML Tree Heroes</returns>
+        public static XElement Create_Heroes_Tree(List<XElement> heroes)
         {
             return new XElement("Helden",
-                           from h in heros
+                           from h in heroes
                            select h);
         }
 
-        public static XElement Create_Heroes_Tree(List<Hero> heros)
+        /// <summary>
+        /// Erstellt einen XML Tree für Helden aus einer Liste von Helden <see cref="Hero"/>
+        /// </summary>
+        /// <param name="heroes">Liste von Heroes</param>
+        /// <returns>XML Tree Heroes</returns>
+        public static XElement Create_Heroes_Tree(List<Hero> heroes)
         {
             List<XElement> erg = new List<XElement>();
+            heroes.ForEach(a => erg.Add(DataGenerator.Create_Hero_Tree(a)));
+
+            return Create_Heroes_Tree(erg);
         }
 
+        /// <summary>
+        /// Erstellt einen XML für einen Helden
+        /// </summary>
+        /// <param name="h">Der Hero</param>
+        /// <returns>XML Tree Hero</returns>
         public static XElement Create_Hero_Tree(Hero h)
         {
             return new XElement("Held",
@@ -293,7 +305,7 @@ namespace Projekt_ConsoleGameApp
                        new XElement("Alter", m.Age))).ToList();
         }
 
-        //public static List<XElement> Create_Player_Tree(List<Hero> heros, PlayerList player)
+        //public static List<XElement> Create_Player_Tree(List<Hero> heroes, PlayerList player)
         //{
         //    return (from p in player.Get_All_Players()
         //            select new XElement("Spieler",
@@ -306,7 +318,7 @@ namespace Projekt_ConsoleGameApp
 
         #endregion
 
-        // 250 Player, 1000 Heros
+        // 250 Player, 1000 Heroes
 
     }
 }

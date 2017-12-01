@@ -13,7 +13,7 @@ namespace Projekt_ConsoleGameApp
         /// <summary>
         /// Liste von Helden (<see cref="Hero"/>)
         /// </summary>
-        public List<Hero> Heros { get; set; }
+        public List<Hero> Heroes { get; set; }
 
         /// <summary>
         /// Username des Spielers, wird fürs Anmelden benötigt
