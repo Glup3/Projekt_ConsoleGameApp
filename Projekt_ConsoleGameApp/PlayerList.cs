@@ -46,9 +46,22 @@ namespace Projekt_ConsoleGameApp
             return liste.Remove(player);
         }
 
+        /// <summary>
+        /// Gibt die Liste der Spieler zurück
+        /// </summary>
+        /// <returns>Liste von Spielern</returns>
         public List<Player> Get_All_Players()
         {
             return liste;
+        }
+
+        /// <summary>
+        /// Gibt die Anzahl der Spieler zurück
+        /// </summary>
+        /// <returns>Anzahl an Spielern</returns>
+        public int Get_Count()
+        {
+            return liste.Count;
         }
 
         #endregion

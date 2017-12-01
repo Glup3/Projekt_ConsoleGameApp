@@ -22,6 +22,8 @@ namespace Projekt_ConsoleGameApp
 
         #region Methoden
 
+        #region Entity
+
         /// <summary>
         /// Gibt ein zufälliges Alter zurück
         /// </summary>
@@ -78,6 +80,10 @@ namespace Projekt_ConsoleGameApp
         /// <returns>MovementSpeed</returns>
         public static int Random_MovementSpeed(int min = 1, int max = 43) { return Generator.Next(min, max) * 10; }
 
+        #endregion
+
+        #region Hero
+
         /// <summary>
         /// Gibt eine zufällige Heldenklasse (<see cref="ClassType"/>) zurück
         /// </summary>
@@ -130,6 +136,10 @@ namespace Projekt_ConsoleGameApp
             };
         }
 
+        #endregion
+
+        #region Monster
+
         /// <summary>
         /// Gibt eine zufällige Monster Rasse zurück
         /// </summary>
@@ -149,6 +159,10 @@ namespace Projekt_ConsoleGameApp
             Array values = Enum.GetValues(typeof(Rarity));
             return (Rarity)values.GetValue(Generator.Next(values.Length));
         }
+
+        #endregion
+
+        #region Player
 
         /// <summary>
         /// Gibt einen zufälligen String zurück, für Username, Password & InGameName 
@@ -175,6 +189,10 @@ namespace Projekt_ConsoleGameApp
         /// <param name="max">Größter Zeit</param>
         /// <returns>Spielzeit</returns>
         public static int Random_PlayTime(int min = 0, int max = 10001) { return Generator.Next(min, max); }
+
+        #endregion
+
+        #region Create Hero/Player/Monster
 
         /// <summary>
         /// Erstellt ein neues Monster mit zufälligen Werten
@@ -236,6 +254,10 @@ namespace Projekt_ConsoleGameApp
             };
         }
 
+        #endregion
+
+        #region Create XML Hero Tree
+
         /// <summary>
         /// Erstellt einen XML Tree für Helden aus einer Liste von XElementen
         /// </summary>
@@ -285,6 +307,10 @@ namespace Projekt_ConsoleGameApp
                             new XElement("AbilityDescription", h.SpecialAbility.AbilityDescription)));
         }
 
+        #endregion
+
+        #region Create XML Monster Tree
+
         /// <summary>
         /// Erstellt einen XML Tree für ein Monster (<see cref="Monster"/>)
         /// </summary>
@@ -329,7 +355,30 @@ namespace Projekt_ConsoleGameApp
             return Create_Monsters_Tree(erg);
         }
 
+        #endregion
 
+        #region Create XML Player Tree
+
+        /// <summary>
+        /// Erstellt einen XML Tree für einen Player
+        /// </summary>
+        /// <param name="p">Der Spieler</param>
+        /// <returns>XML Tree Player</returns>
+        public static XElement Create_Player_Tree(Player p)
+        {
+            return new XElement("Player", 
+                        new XAttribute("Username", p.Username),
+                        new XAttribute("Password", p.Password),
+                        new XElement("InGameName", p.InGameName),
+                        new XElement("Money", p.Money),
+                        new XElement("Spielzeit", p.PlayedTime),
+                        Create_Heroes_Tree(p.Heroes));
+        }
+
+
+
+
+        #endregion
 
 
         //public static List<XElement> Create_Player_Tree(List<Hero> heroes, PlayerList player)
