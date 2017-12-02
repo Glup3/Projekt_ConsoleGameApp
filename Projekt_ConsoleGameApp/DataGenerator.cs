@@ -22,67 +22,67 @@ namespace Projekt_ConsoleGameApp
 
         #region Methoden
 
-        #region Entity
+        #region Random Entity Attributes
 
         /// <summary>
-        /// Gibt ein zufälliges Alter zurück
+        /// Gibt ein zufälliges Alter zwischen min und max (exklusiv) zurück
         /// </summary>
-        /// <param name="min">Mindest Alter</param>
-        /// <param name="max">Maximales Alter</param>
+        /// <param name="min">Mindest Alter, Standardwert = 1</param>
+        /// <param name="max">Maximales Alter, Standardwert = 201</param>
         /// <returns>Alter</returns>
         public static int Random_Age(int min = 1, int max = 201) { return Generator.Next(min, max); }
 
         /// <summary>
-        /// Gibt einen zufälligen Rüstungswert zurück
+        /// Gibt einen zufälligen Rüstungswert zwischen min und max zurück 
         /// </summary>
-        /// <param name="min">Mindest Rüstungswert</param>
-        /// <param name="max">Maximaler Rüstungswert</param>
+        /// <param name="min">Mindest Rüstungswert, Standardwert = 0</param>
+        /// <param name="max">Maximaler Rüstungswert, Standardwert = 30</param>
         /// <returns>Rüstungswert</returns>
         public static double Random_Armor(double min = 0, double max = 30) { return Math.Round(Generator.NextDouble() * (max - min) + min, 2); }
 
         /// <summary>
-        /// Gibt einen zufälligen Angriffsschaden zurück
+        /// Gibt einen zufälligen Angriffsschaden zwischen min und max zurück
         /// </summary>
-        /// <param name="min">Mindest Angriffsschaden</param>
-        /// <param name="max">Maximaler Angriffsschaden</param>
+        /// <param name="min">Mindest Angriffsschaden, Standardwert = 10</param>
+        /// <param name="max">Maximaler Angriffsschaden , Standardwert = 500</param>
         /// <returns>Angriffsschaden</returns>
         public static double Random_AttackDamage(double min = 10, double max = 500) { return Math.Round(Generator.NextDouble() * (max - min) + min, 2); }
 
         /// <summary>
-        /// Gibt einen zufälligen Lebenspunktewert zurück
+        /// Gibt einen zufälligen Lebenspunktewert zwischen min und max zurück
         /// </summary>
-        /// <param name="min">Mindest Lebenspunktewert</param>
-        /// <param name="max">Maximaler Lebenspunktewert</param>
+        /// <param name="min">Mindest Lebenspunktewert, Standardwert = 50</param>
+        /// <param name="max">Maximaler Lebenspunktewert, Standardwert = 20000</param>
         /// <returns>HP</returns>
         public static double Random_HealthPoints(double min = 50, double max = 20000) { return Math.Round(Generator.NextDouble() * (max - min) + min, 2); }
 
         /// <summary>
-        /// Gibt einen zufälligen Erfahrungspunktwert zurück
+        /// Gibt einen zufälligen Erfahrungspunktwert zwischen min und max (exklusiv) zurück
         /// </summary>
-        /// <param name="min">Mindest Erfahrungspunktwert</param>
-        /// <param name="max">Maximaler Erfahrungspunktwert</param>
+        /// <param name="min">Mindest Erfahrungspunktwert, Standardwert = 0</param>
+        /// <param name="max">Maximaler Erfahrungspunktwert, Standardwert = 1000</param>
         /// <returns>ExperiencePoints</returns>
         public static int Random_ExperiencePoints(int min = 0, int max  = 1000) { return Generator.Next(min, max); }
 
         /// <summary>
-        /// Gibt ein zufälliges Level zurück
+        /// Gibt ein zufälliges Level zwischen min und max (exklusiv) zurück
         /// </summary>
-        /// <param name="min">Mindest Level</param>
-        /// <param name="max">Maximales Level</param>
+        /// <param name="min">Mindest Level, Standardwert = 1</param>
+        /// <param name="max">Maximales Level, Standardwert = 101</param>
         /// <returns>Level</returns>
         public static int Random_Level(int min = 1, int max = 101) { return Generator.Next(min, max); }
 
         /// <summary>
-        /// Gibt einen zufälligen Bewegungsgeschwindigkeitwert zurück
+        /// Gibt einen zufälligen Bewegungsgeschwindigkeitwert zwischen min und max (exklusiv) zurück, Wert wird mit 10 multipliziert
         /// </summary>
-        /// <param name="min">Mindest Bewegungsgeschwindigkeit</param>
-        /// <param name="max">Maximale Bewegungsgeschwindigkeit</param>
+        /// <param name="min">Mindest Bewegungsgeschwindigkeit, Standardwert = 1</param>
+        /// <param name="max">Maximale Bewegungsgeschwindigkeit, Standardwert = 43</param>
         /// <returns>MovementSpeed</returns>
         public static int Random_MovementSpeed(int min = 1, int max = 43) { return Generator.Next(min, max) * 10; }
 
         #endregion
 
-        #region Hero
+        #region Random Hero Attributes
 
         /// <summary>
         /// Gibt eine zufällige Heldenklasse (<see cref="ClassType"/>) zurück
@@ -138,7 +138,7 @@ namespace Projekt_ConsoleGameApp
 
         #endregion
 
-        #region Monster
+        #region Random Monster Attributes
 
         /// <summary>
         /// Gibt eine zufällige Monster Rasse zurück
@@ -162,31 +162,31 @@ namespace Projekt_ConsoleGameApp
 
         #endregion
 
-        #region Player
+        #region Random Player Attributes
 
         /// <summary>
-        /// Gibt einen zufälligen String zurück, für Username, Password & InGameName 
+        /// Gibt eine zufällige Zeichenkette zurück
         /// </summary>
-        /// <param name="length">Länge des Strings</param>
-        /// <returns>String</returns>
-        public static string Random_String(int length)
+        /// <param name="length">Länge des Strings, Standardwert = 8</param>
+        /// <returns>Zeichenkette</returns>
+        public static string Random_String(int length = 8)
         {
             return new string(Enumerable.Repeat(ExampleData.chars, length).Select(s => s[Generator.Next(s.Length)]).ToArray());
         }
 
         /// <summary>
-        /// Gibt einen zufälligen Geldbetrag zurück
+        /// Gibt einen zufälligen Geldbetrag zwischen min und max zurück
         /// </summary>
-        /// <param name="min">Kleinster Wert</param>
-        /// <param name="max">Größter Wert</param>
+        /// <param name="min">Kleinster Wert, Standardwert = 0</param>
+        /// <param name="max">Größter Wert, Standardwert = 10000000</param>
         /// <returns>Geld</returns>
         public static double Random_Money(int min = 0, int max = 10000000) { return Math.Round(Generator.NextDouble() * (max - min) + min, 2); }
 
         /// <summary>
-        /// Gibt einen zufällige Spielzeit zurück
+        /// Gibt eine zufällige Spielzeit zwischen min und max (exklusiv) zurück
         /// </summary>
-        /// <param name="min">Kleinste Zeit</param>
-        /// <param name="max">Größter Zeit</param>
+        /// <param name="min">Kleinste Zeit, Standardwert = 0</param>
+        /// <param name="max">Größter Zeit, Standardwert = 10001</param>
         /// <returns>Spielzeit</returns>
         public static int Random_PlayTime(int min = 0, int max = 10001) { return Generator.Next(min, max); }
 
@@ -215,6 +215,22 @@ namespace Projekt_ConsoleGameApp
         }
 
         /// <summary>
+        /// Erstellt eine zufällige Liste von Monstern
+        /// </summary>
+        /// <param name="anz">Anzahl der Monster, Standartwert = 50</param>
+        /// <returns>Liste von Monstern</returns>
+        public static List<Monster> Create_Random_Monsters(int anz = 50)
+        {
+            List<Monster> liste = new List<Monster>();
+            for(int i = 0; i < anz; i++)
+            {
+                liste.Add(Create_Random_Monster());
+            }
+
+            return liste;
+        }
+
+        /// <summary>
         /// Erstellt einen zufälligen Helden
         /// </summary>
         /// <returns>Held</returns>
@@ -238,9 +254,25 @@ namespace Projekt_ConsoleGameApp
         }
 
         /// <summary>
-        /// Erstellt einen zufälligen Spieler
+        /// Erstellt eine zufällige Liste von Helden
         /// </summary>
-        /// <returns>Spieler</returns>
+        /// <param name="anz">Anzahl der Helden, Standardwert = 6</param>
+        /// <returns>Liste von Helden</returns>
+        public static List<Hero> Create_Random_Heroes(int anz = 6)
+        {
+            List<Hero> liste = new List<Hero>();
+            for (int i = 0; i < anz; i++)
+            {
+                liste.Add(Create_Random_Hero());
+            }
+            return liste;
+        }
+
+        /// <summary>
+        /// Erstellt einen zufälligen Spieler, Liste von Helden wird angegeben
+        /// </summary>
+        /// <param name="heroes">Liste von Helden</param>
+        /// <returns>Zufälligen Spieler</returns>
         public static Player Create_Random_Player(List<Hero> heroes)
         {
             return new Player
@@ -254,6 +286,74 @@ namespace Projekt_ConsoleGameApp
             };
         }
 
+        /// <summary>
+        /// Erstellt einen zufälligen Spieler, Liste von Helden ist zufällig
+        /// </summary>
+        /// <param name="anz">Anzahl an Helden, Standardwert = 6</param>
+        /// <returns>Zufälligen Spieler</returns>
+        public static Player Create_Random_Player(int anz = 6)
+        {
+            return Create_Random_Player(Create_Random_Heroes(anz));
+        }
+
+        /// <summary>
+        /// Erstellt eine zufällige Liste von Spielern
+        /// </summary>
+        /// <param name="anz">Anzahl der Spieler, Standardwert = 4</param>
+        /// <returns>Spielerliste</returns>
+        public static PlayerList Create_Random_PlayerList(int anz = 4)
+        {
+            PlayerList liste = new PlayerList();
+            for(int i = 0; i < anz; i++)
+            {
+                liste.Add_Player(Create_Random_Player(Create_Random_Heroes()));
+            }
+            return liste;
+        }
+
+        /// <summary>
+        /// Erstellt ein zufälliges Spiel (<see cref="Game"/>), Spielerliste und Monsterliste werden angegeben
+        /// </summary>
+        /// <param name="pl">Spielerliste</param>
+        /// <param name="ml">Monsterliste</param>
+        /// <returns>Zufälliges Spiel</returns>
+        public static Game Create_Random_Game(PlayerList pl, List<Monster> ml)
+        {
+            return new Game
+            {
+                GameName = Random_String(),
+                MonsterListe = ml,
+                PlayerListe = pl,
+            };
+        }
+
+        /// <summary>
+        /// Erstellt ein zufälliges Spiel (<see cref="Game"/>), Spielerliste und Monsterliste sind zufällig
+        /// </summary>
+        /// <param name="anzPl">Anzahl der Spieler, Standardwert = 4</param>
+        /// <param name="anzMl">Anzahl der Monster, Standardwert = 4</param>
+        /// <returns>Zufälliges Spiel</returns>
+        public static Game Create_Random_Game(int anzPl = 4, int anzMl = 50)
+        {
+            return Create_Random_Game(Create_Random_PlayerList(anzPl), Create_Random_Monsters(anzMl));
+        }
+
+        /// <summary>
+        /// Erstellt eine zufällige Liste von Spielen
+        /// </summary>
+        /// <param name="anz">Anzahl der Spiel, Standardwert = 3</param>
+        /// <returns>Zufällige Liste von Spielen</returns>
+        public static List<Game> Create_Random_Games(int anz = 3)
+        {
+            List<Game> liste = new List<Game>();
+            for(int i = 0; i < anz; i++)
+            {
+                liste.Add(Create_Random_Game());
+            }
+
+            return liste;
+        }
+
         #endregion
 
         #region Create XML Hero Tree
@@ -265,9 +365,10 @@ namespace Projekt_ConsoleGameApp
         /// <returns>XML Tree Heroes</returns>
         public static XElement Create_Heroes_Tree(List<XElement> heroes)
         {
-            return new XElement("Helden",
-                           from h in heroes
-                           select h);
+            return new XElement("Heroes",
+                        new XAttribute("HeroesNumber", heroes.Count),
+                        from h in heroes
+                        select h);
         }
 
         /// <summary>
@@ -375,22 +476,123 @@ namespace Projekt_ConsoleGameApp
                         Create_Heroes_Tree(p.Heroes));
         }
 
+        /// <summary>
+        /// Erstellt einen XML Tree für Spieler aus einer Liste von Spielern (<see cref="PlayerList"/>)
+        /// </summary>
+        /// <param name="pl">Spielerliste</param>
+        /// <returns>XML Tree Players</returns>
+        public static XElement Create_Players_Tree(PlayerList pl)
+        {
+            List<XElement> erg = new List<XElement>();
+            pl.Get_All_Players().ForEach(p => erg.Add(Create_Player_Tree(p)));
+
+            return Create_Players_Tree(erg);
+        }
+
+        /// <summary>
+        /// Erstellt einen XML Tree für Spieler aus einer Liste von XElementen
+        /// </summary>
+        /// <param name="players">XML Tree von Spielern ohne "Players"</param>
+        /// <returns></returns>
+        public static XElement Create_Players_Tree(List<XElement> players)
+        {
+            return new XElement("Players",
+                        new XAttribute("PlayersNumber", players.Count),
+                        from p in players
+                        select p);
+        }
+
+        #endregion
+
+        #region Create XML Game Tree
+
+        /// <summary>
+        /// Erstellt einen XML Tree für ein Spiel
+        /// </summary>
+        /// <param name="g">Das Spiel</param>
+        /// <returns>XML Tree Game</returns>
+        public static XElement Create_Game_Tree(Game g)
+        {
+            return new XElement("Game",
+                        new XAttribute("GameName", g.GameName),
+                        Create_Players_Tree(g.PlayerListe),
+                        Create_Monsters_Tree(g.MonsterListe));
+        }
+
+        /// <summary>
+        /// Erstellt einen XML Tree für Spiele aus einer Liste von XElementen
+        /// </summary>
+        /// <param name="games">XElement Liste von Spielen</param>
+        /// <returns>XML Tree Games</returns>
+        public static XElement Create_Games_Tree(List<XElement> games)
+        {
+            return new XElement("Games",
+                        new XAttribute("GamesNumber", games.Count),
+                        from g in games
+                        select g);
+        }
+
+        /// <summary>
+        /// Erstellt einen XML Tree für Spiele aus einer Liste von Spielen
+        /// </summary>
+        /// <param name="games">Liste von Spielen</param>
+        /// <returns>XML Tree Games</returns>
+        public static XElement Create_Games_Tree(List<Game> games)
+        {
+            List<XElement> erg = new List<XElement>();
+            games.ForEach(g => erg.Add(Create_Game_Tree(g)));
+
+            return Create_Games_Tree(erg);
+        }
+
+        #endregion
+
+        #region Create Random XML Trees
+
+        /// <summary>
+        /// Erstellt einen zufälligen XML Tree für Helden
+        /// </summary>
+        /// <param name="anz">Anzahl der Helden, Standardwert = 6</param>
+        /// <returns>XML Tree Heroes</returns>
+        public static XElement Create_Random_Heroes_Tree(int anz = 6)
+        {
+            return Create_Heroes_Tree(Create_Random_Heroes(anz));
+        }
+
+        /// <summary>
+        /// Erstellt einen zufälligen XML Tree für Spieler
+        /// </summary>
+        /// <param name="anz">Anzahl der Spieler, Standardwert = 4</param>
+        /// <returns>XML Tree Players</returns>
+        public static XElement Create_Random_Players_Tree(int anz = 4)
+        {
+            return Create_Players_Tree(Create_Random_PlayerList(anz));
+        }
+
+        /// <summary>
+        /// Erstellt einen zufälligen XML Tree für Monsters
+        /// </summary>
+        /// <param name="anz">Anzahl der Monster, Standardwert = 50</param>
+        /// <returns>XML Tree Monsters</returns>
+        public static XElement Create_Random_Monsters_Tree(int anz = 50)
+        {
+            return Create_Monsters_Tree(Create_Random_Monsters(anz));
+        }
+
+        /// <summary>
+        /// Erstellt einen zufälligen XML Tree für Spiele
+        /// </summary>
+        /// <param name="anz">Anzahl der Spiele, Standardwert = 3</param>
+        /// <returns>XML Tree Games</returns>
+        public static XElement Create_Random_Games_Tree(int anz = 3)
+        {
+            return Create_Games_Tree(Create_Random_Games(anz));
+        }
+
 
 
 
         #endregion
-
-
-        //public static List<XElement> Create_Player_Tree(List<Hero> heroes, PlayerList player)
-        //{
-        //    return (from p in player.Get_All_Players()
-        //            select new XElement("Spieler",
-        //                        new XAttribute("Username", )
-        //                )
-
-
-        //            ).ToList();
-        //}
 
         #endregion
 

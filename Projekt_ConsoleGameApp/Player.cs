@@ -57,8 +57,15 @@ namespace Projekt_ConsoleGameApp
 
             return InGameName.Equals(other.InGameName) && Username.Equals(other.Username);
         }
-        
+
         #endregion
+
+        public override string ToString()
+        {
+            string pl = $"InGameName = {InGameName}, Username = {Username}, Password = {Password}, Money = {Money}, Played Time = {PlayedTime}, Heroes:";
+            Heroes.ForEach(h => pl += $"\n\t {h}");
+            return pl;
+        }
 
     }
 }

@@ -48,7 +48,7 @@
 
         public override string ToString()
         {
-            return $"Healthpoints = {HP}, Attackdamage = {AttackDamage}, Armor = {Armor}, Level = {Level}, XP = {ExperiencePoints}, MovementSpeed = {MovementSpeed}, Age = {Age}";
+            return $"\tHealthpoints = {HP}, \n\tAttackdamage = {AttackDamage}, \n\tArmor = {Armor}, \n\tLevel = {Level}, \n\tXP = {ExperiencePoints}, \n\tMovementSpeed = {MovementSpeed}, \n\tAge = {Age}";
         }
 
         #endregion

@@ -17,12 +17,12 @@ namespace Projekt_ConsoleGameApp
         /// <summary>
         /// Liste von Spielern (<see cref="PlayerList"/>, <see cref="Player"/>)
         /// </summary>
-        public PlayerList PlayerListe { get; set; }
+        public PlayerList PlayerListe { get; set; } = new PlayerList();
 
         /// <summary>
         /// Liste von Monstern (<see cref="Monster"/>)
         /// </summary>
-        public List<Monster> MonsterListe { get; set; }
+        public List<Monster> MonsterListe { get; set; } = new List<Monster>();
 
 
 

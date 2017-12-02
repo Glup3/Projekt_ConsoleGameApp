@@ -38,7 +38,7 @@
 
         public override string ToString()
         {
-            return base.ToString() + $", Name = {Name}, Race = {Race}, HeroClass = {HeroClass}, Motto = {Motto}, Special Ability = {SpecialAbility}";
+            return $"\n\tName = {Name}, \n\tRace = {Race}, \n\tHeroClass = {HeroClass}, \n\tMotto = {Motto}, \n\tSpecial Ability = {SpecialAbility},\n" + base.ToString();
         }
 
         #endregion
