@@ -1,0 +1,2535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Games GamesNumber="3">
+  <Game GameName="UT2SuILX">
+    <Players PlayersNumber="4">
+      <Player Username="8Jop1ubj" Password="yByuW6fRMmUuVN77">
+        <InGameName>3tzPzxHURutj</InGameName>
+        <Money>5206986.99</Money>
+        <Spielzeit>6386</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Jackson Clark" Rasse="DWARF">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>18457.39</Lebenspunkte>
+            <Angriffsschaden>27.21</Angriffsschaden>
+            <Rüstung>20.59</Rüstung>
+            <Level>3</Level>
+            <Erfahrungspunkte>3</Erfahrungspunkte>
+            <Geschwindigkeit>310</Geschwindigkeit>
+            <Alter>176</Alter>
+            <Motto>My Magic will tear you apart</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Susanne Miller" Rasse="PANDA">
+            <HeldenKlasse>ROGUE</HeldenKlasse>
+            <Lebenspunkte>3185.27</Lebenspunkte>
+            <Angriffsschaden>339.73</Angriffsschaden>
+            <Rüstung>13.91</Rüstung>
+            <Level>38</Level>
+            <Erfahrungspunkte>4</Erfahrungspunkte>
+            <Geschwindigkeit>400</Geschwindigkeit>
+            <Alter>109</Alter>
+            <Motto>Legends never die</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Emma White" Rasse="PANDA">
+            <HeldenKlasse>HUNTER</HeldenKlasse>
+            <Lebenspunkte>7070.67</Lebenspunkte>
+            <Angriffsschaden>62.87</Angriffsschaden>
+            <Rüstung>29.01</Rüstung>
+            <Level>69</Level>
+            <Erfahrungspunkte>579</Erfahrungspunkte>
+            <Geschwindigkeit>220</Geschwindigkeit>
+            <Alter>10</Alter>
+            <Motto>If opportunity doesn't knock, build a door</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Lucas Wilson" Rasse="ELF">
+            <HeldenKlasse>ROGUE</HeldenKlasse>
+            <Lebenspunkte>1385.11</Lebenspunkte>
+            <Angriffsschaden>466.05</Angriffsschaden>
+            <Rüstung>12.83</Rüstung>
+            <Level>80</Level>
+            <Erfahrungspunkte>666</Erfahrungspunkte>
+            <Geschwindigkeit>340</Geschwindigkeit>
+            <Alter>114</Alter>
+            <Motto>Keep your face always toward the sunshine - and shadows will fall behind you</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Benjamin Lee" Rasse="HUMAN">
+            <HeldenKlasse>HUNTER</HeldenKlasse>
+            <Lebenspunkte>3002.3</Lebenspunkte>
+            <Angriffsschaden>136.23</Angriffsschaden>
+            <Rüstung>27.92</Rüstung>
+            <Level>48</Level>
+            <Erfahrungspunkte>934</Erfahrungspunkte>
+            <Geschwindigkeit>350</Geschwindigkeit>
+            <Alter>96</Alter>
+            <Motto>DEMACIAAAAA</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Caitlynn Williams" Rasse="GNOME">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>15911.35</Lebenspunkte>
+            <Angriffsschaden>247.06</Angriffsschaden>
+            <Rüstung>5.19</Rüstung>
+            <Level>50</Level>
+            <Erfahrungspunkte>40</Erfahrungspunkte>
+            <Geschwindigkeit>360</Geschwindigkeit>
+            <Alter>37</Alter>
+            <Motto>My Magic will tear you apart</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+      <Player Username="90U7LZJR" Password="mvDiasnlSzo7imJz">
+        <InGameName>ppFWmAVumbHY</InGameName>
+        <Money>1394860.95</Money>
+        <Spielzeit>7566</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Jacob Anderson" Rasse="GNOME">
+            <HeldenKlasse>ROGUE</HeldenKlasse>
+            <Lebenspunkte>17926.35</Lebenspunkte>
+            <Angriffsschaden>23.88</Angriffsschaden>
+            <Rüstung>5.77</Rüstung>
+            <Level>75</Level>
+            <Erfahrungspunkte>448</Erfahrungspunkte>
+            <Geschwindigkeit>120</Geschwindigkeit>
+            <Alter>47</Alter>
+            <Motto>You cannot shake hands with a clenched fist</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Anna Jones" Rasse="ELF">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>13594.18</Lebenspunkte>
+            <Angriffsschaden>382.5</Angriffsschaden>
+            <Rüstung>5.05</Rüstung>
+            <Level>52</Level>
+            <Erfahrungspunkte>181</Erfahrungspunkte>
+            <Geschwindigkeit>210</Geschwindigkeit>
+            <Alter>117</Alter>
+            <Motto>You cannot shake hands with a clenched fist</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Zoe Thomas" Rasse="DWARF">
+            <HeldenKlasse>PRIEST</HeldenKlasse>
+            <Lebenspunkte>18932.14</Lebenspunkte>
+            <Angriffsschaden>455.43</Angriffsschaden>
+            <Rüstung>17.77</Rüstung>
+            <Level>38</Level>
+            <Erfahrungspunkte>844</Erfahrungspunkte>
+            <Geschwindigkeit>60</Geschwindigkeit>
+            <Alter>155</Alter>
+            <Motto>Thunderbolt!!!</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Victoria Robinson" Rasse="ELF">
+            <HeldenKlasse>PALADIN</HeldenKlasse>
+            <Lebenspunkte>18689.4</Lebenspunkte>
+            <Angriffsschaden>149.01</Angriffsschaden>
+            <Rüstung>17.41</Rüstung>
+            <Level>71</Level>
+            <Erfahrungspunkte>68</Erfahrungspunkte>
+            <Geschwindigkeit>170</Geschwindigkeit>
+            <Alter>42</Alter>
+            <Motto>Learning never exhausts the mind</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Lucas Jackson" Rasse="ELF">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>12230.05</Lebenspunkte>
+            <Angriffsschaden>42.57</Angriffsschaden>
+            <Rüstung>27.77</Rüstung>
+            <Level>8</Level>
+            <Erfahrungspunkte>746</Erfahrungspunkte>
+            <Geschwindigkeit>280</Geschwindigkeit>
+            <Alter>130</Alter>
+            <Motto>DEMACIAAAAA</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Caitlynn Brown" Rasse="ELF">
+            <HeldenKlasse>PRIEST</HeldenKlasse>
+            <Lebenspunkte>8394.42</Lebenspunkte>
+            <Angriffsschaden>451.43</Angriffsschaden>
+            <Rüstung>26.28</Rüstung>
+            <Level>35</Level>
+            <Erfahrungspunkte>445</Erfahrungspunkte>
+            <Geschwindigkeit>380</Geschwindigkeit>
+            <Alter>38</Alter>
+            <Motto>But man is not made for defeat. A man can be destroyed but not defeated</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+      <Player Username="IVsvQPPA" Password="pXDaW3LvWHX2CU3L">
+        <InGameName>mZb74fQmwMaZ</InGameName>
+        <Money>9998905.2</Money>
+        <Spielzeit>1411</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Emma White" Rasse="GNOME">
+            <HeldenKlasse>ROGUE</HeldenKlasse>
+            <Lebenspunkte>11234.78</Lebenspunkte>
+            <Angriffsschaden>49.8</Angriffsschaden>
+            <Rüstung>16.58</Rüstung>
+            <Level>79</Level>
+            <Erfahrungspunkte>579</Erfahrungspunkte>
+            <Geschwindigkeit>120</Geschwindigkeit>
+            <Alter>108</Alter>
+            <Motto>Legends never die</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Luke Brown" Rasse="DWARF">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>7495.64</Lebenspunkte>
+            <Angriffsschaden>391.66</Angriffsschaden>
+            <Rüstung>14.78</Rüstung>
+            <Level>45</Level>
+            <Erfahrungspunkte>46</Erfahrungspunkte>
+            <Geschwindigkeit>30</Geschwindigkeit>
+            <Alter>101</Alter>
+            <Motto>But man is not made for defeat. A man can be destroyed but not defeated</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Lucas Jackson" Rasse="HUMAN">
+            <HeldenKlasse>ROGUE</HeldenKlasse>
+            <Lebenspunkte>8741.65</Lebenspunkte>
+            <Angriffsschaden>39</Angriffsschaden>
+            <Rüstung>8.06</Rüstung>
+            <Level>91</Level>
+            <Erfahrungspunkte>176</Erfahrungspunkte>
+            <Geschwindigkeit>380</Geschwindigkeit>
+            <Alter>92</Alter>
+            <Motto>DEMACIAAAAA</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Matthew Jackson" Rasse="DWARF">
+            <HeldenKlasse>WARLOCK</HeldenKlasse>
+            <Lebenspunkte>19481</Lebenspunkte>
+            <Angriffsschaden>450.67</Angriffsschaden>
+            <Rüstung>26.08</Rüstung>
+            <Level>53</Level>
+            <Erfahrungspunkte>281</Erfahrungspunkte>
+            <Geschwindigkeit>210</Geschwindigkeit>
+            <Alter>81</Alter>
+            <Motto>There is nothing permanent except change</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Susanne Lee" Rasse="HUMAN">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>3422.63</Lebenspunkte>
+            <Angriffsschaden>434.04</Angriffsschaden>
+            <Rüstung>21.28</Rüstung>
+            <Level>65</Level>
+            <Erfahrungspunkte>485</Erfahrungspunkte>
+            <Geschwindigkeit>410</Geschwindigkeit>
+            <Alter>115</Alter>
+            <Motto>The only journey is the one within</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Anna Thomas" Rasse="DEMIHUMAN">
+            <HeldenKlasse>MAGE</HeldenKlasse>
+            <Lebenspunkte>6506.92</Lebenspunkte>
+            <Angriffsschaden>32.67</Angriffsschaden>
+            <Rüstung>11.9</Rüstung>
+            <Level>3</Level>
+            <Erfahrungspunkte>614</Erfahrungspunkte>
+            <Geschwindigkeit>190</Geschwindigkeit>
+            <Alter>45</Alter>
+            <Motto>All tgat we see or seem is but a dream within a dream</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+      <Player Username="1dj4VTT8" Password="1AGxLJmmszjch1mp">
+        <InGameName>IzeJUjIXKngB</InGameName>
+        <Money>1024185.55</Money>
+        <Spielzeit>6051</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Anna Harris" Rasse="PANDA">
+            <HeldenKlasse>MAGE</HeldenKlasse>
+            <Lebenspunkte>8911.39</Lebenspunkte>
+            <Angriffsschaden>422.73</Angriffsschaden>
+            <Rüstung>14.69</Rüstung>
+            <Level>63</Level>
+            <Erfahrungspunkte>594</Erfahrungspunkte>
+            <Geschwindigkeit>140</Geschwindigkeit>
+            <Alter>121</Alter>
+            <Motto>Thunderbolt!!!</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Lucas Moore" Rasse="ELF">
+            <HeldenKlasse>PRIEST</HeldenKlasse>
+            <Lebenspunkte>5201.35</Lebenspunkte>
+            <Angriffsschaden>300.1</Angriffsschaden>
+            <Rüstung>18.35</Rüstung>
+            <Level>7</Level>
+            <Erfahrungspunkte>651</Erfahrungspunkte>
+            <Geschwindigkeit>370</Geschwindigkeit>
+            <Alter>44</Alter>
+            <Motto>My Magic will tear you apart</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Michael Moore" Rasse="HUMAN">
+            <HeldenKlasse>MAGE</HeldenKlasse>
+            <Lebenspunkte>7974.05</Lebenspunkte>
+            <Angriffsschaden>348.38</Angriffsschaden>
+            <Rüstung>2</Rüstung>
+            <Level>82</Level>
+            <Erfahrungspunkte>240</Erfahrungspunkte>
+            <Geschwindigkeit>320</Geschwindigkeit>
+            <Alter>13</Alter>
+            <Motto>There is nothing permanent except change</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Zoe Williams" Rasse="HUMAN">
+            <HeldenKlasse>PRIEST</HeldenKlasse>
+            <Lebenspunkte>15542.08</Lebenspunkte>
+            <Angriffsschaden>336.26</Angriffsschaden>
+            <Rüstung>22.57</Rüstung>
+            <Level>61</Level>
+            <Erfahrungspunkte>712</Erfahrungspunkte>
+            <Geschwindigkeit>390</Geschwindigkeit>
+            <Alter>186</Alter>
+            <Motto>Heeeeeelp meeeee</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Anna Thomas" Rasse="HUMAN">
+            <HeldenKlasse>PALADIN</HeldenKlasse>
+            <Lebenspunkte>6211.44</Lebenspunkte>
+            <Angriffsschaden>455.33</Angriffsschaden>
+            <Rüstung>5.25</Rüstung>
+            <Level>16</Level>
+            <Erfahrungspunkte>729</Erfahrungspunkte>
+            <Geschwindigkeit>60</Geschwindigkeit>
+            <Alter>193</Alter>
+            <Motto>Keep your face always toward the sunshine - and shadows will fall behind you</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Jacob Taylor" Rasse="HUMAN">
+            <HeldenKlasse>PRIEST</HeldenKlasse>
+            <Lebenspunkte>4046.75</Lebenspunkte>
+            <Angriffsschaden>286.68</Angriffsschaden>
+            <Rüstung>23.09</Rüstung>
+            <Level>49</Level>
+            <Erfahrungspunkte>462</Erfahrungspunkte>
+            <Geschwindigkeit>150</Geschwindigkeit>
+            <Alter>105</Alter>
+            <Motto>Remember the Alamo</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+    </Players>
+    <Monsters>
+      <Monster Rasse="MINION" Seltenheit="COMMON">
+        <Lebenspunkte>7148.9</Lebenspunkte>
+        <Angriffsschaden>475.66</Angriffsschaden>
+        <Rüstung>28.51</Rüstung>
+        <Level>14</Level>
+        <Erfahrungspunkte>771</Erfahrungspunkte>
+        <Geschwindigkeit>190</Geschwindigkeit>
+        <Alter>47</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="EPIC">
+        <Lebenspunkte>2495.43</Lebenspunkte>
+        <Angriffsschaden>127.8</Angriffsschaden>
+        <Rüstung>14.36</Rüstung>
+        <Level>28</Level>
+        <Erfahrungspunkte>562</Erfahrungspunkte>
+        <Geschwindigkeit>330</Geschwindigkeit>
+        <Alter>79</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="LEGENDARY">
+        <Lebenspunkte>14048.69</Lebenspunkte>
+        <Angriffsschaden>352.04</Angriffsschaden>
+        <Rüstung>27.5</Rüstung>
+        <Level>52</Level>
+        <Erfahrungspunkte>784</Erfahrungspunkte>
+        <Geschwindigkeit>240</Geschwindigkeit>
+        <Alter>1</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="COMMON">
+        <Lebenspunkte>13824.25</Lebenspunkte>
+        <Angriffsschaden>106.87</Angriffsschaden>
+        <Rüstung>13.74</Rüstung>
+        <Level>80</Level>
+        <Erfahrungspunkte>521</Erfahrungspunkte>
+        <Geschwindigkeit>410</Geschwindigkeit>
+        <Alter>9</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="COMMON">
+        <Lebenspunkte>10790.44</Lebenspunkte>
+        <Angriffsschaden>185.24</Angriffsschaden>
+        <Rüstung>25.5</Rüstung>
+        <Level>2</Level>
+        <Erfahrungspunkte>698</Erfahrungspunkte>
+        <Geschwindigkeit>200</Geschwindigkeit>
+        <Alter>136</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>766.74</Lebenspunkte>
+        <Angriffsschaden>371.32</Angriffsschaden>
+        <Rüstung>1.28</Rüstung>
+        <Level>13</Level>
+        <Erfahrungspunkte>202</Erfahrungspunkte>
+        <Geschwindigkeit>140</Geschwindigkeit>
+        <Alter>86</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="GOD">
+        <Lebenspunkte>1200.48</Lebenspunkte>
+        <Angriffsschaden>131.8</Angriffsschaden>
+        <Rüstung>13.53</Rüstung>
+        <Level>80</Level>
+        <Erfahrungspunkte>437</Erfahrungspunkte>
+        <Geschwindigkeit>420</Geschwindigkeit>
+        <Alter>58</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="GOD">
+        <Lebenspunkte>15068.28</Lebenspunkte>
+        <Angriffsschaden>396.26</Angriffsschaden>
+        <Rüstung>26.11</Rüstung>
+        <Level>17</Level>
+        <Erfahrungspunkte>446</Erfahrungspunkte>
+        <Geschwindigkeit>360</Geschwindigkeit>
+        <Alter>181</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="EPIC">
+        <Lebenspunkte>6850.96</Lebenspunkte>
+        <Angriffsschaden>195.29</Angriffsschaden>
+        <Rüstung>9.18</Rüstung>
+        <Level>23</Level>
+        <Erfahrungspunkte>682</Erfahrungspunkte>
+        <Geschwindigkeit>130</Geschwindigkeit>
+        <Alter>12</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="EPIC">
+        <Lebenspunkte>11946.48</Lebenspunkte>
+        <Angriffsschaden>216.88</Angriffsschaden>
+        <Rüstung>25.19</Rüstung>
+        <Level>38</Level>
+        <Erfahrungspunkte>75</Erfahrungspunkte>
+        <Geschwindigkeit>230</Geschwindigkeit>
+        <Alter>8</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="LEGENDARY">
+        <Lebenspunkte>6808.91</Lebenspunkte>
+        <Angriffsschaden>398.22</Angriffsschaden>
+        <Rüstung>7.23</Rüstung>
+        <Level>55</Level>
+        <Erfahrungspunkte>565</Erfahrungspunkte>
+        <Geschwindigkeit>230</Geschwindigkeit>
+        <Alter>190</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="COMMON">
+        <Lebenspunkte>2445.62</Lebenspunkte>
+        <Angriffsschaden>152.07</Angriffsschaden>
+        <Rüstung>29.44</Rüstung>
+        <Level>19</Level>
+        <Erfahrungspunkte>572</Erfahrungspunkte>
+        <Geschwindigkeit>370</Geschwindigkeit>
+        <Alter>71</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="COMMON">
+        <Lebenspunkte>1380.27</Lebenspunkte>
+        <Angriffsschaden>63.89</Angriffsschaden>
+        <Rüstung>18.09</Rüstung>
+        <Level>78</Level>
+        <Erfahrungspunkte>22</Erfahrungspunkte>
+        <Geschwindigkeit>140</Geschwindigkeit>
+        <Alter>4</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="LEGENDARY">
+        <Lebenspunkte>1025.52</Lebenspunkte>
+        <Angriffsschaden>144.23</Angriffsschaden>
+        <Rüstung>24.75</Rüstung>
+        <Level>23</Level>
+        <Erfahrungspunkte>412</Erfahrungspunkte>
+        <Geschwindigkeit>60</Geschwindigkeit>
+        <Alter>112</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="RARE">
+        <Lebenspunkte>12931.92</Lebenspunkte>
+        <Angriffsschaden>483.87</Angriffsschaden>
+        <Rüstung>14.84</Rüstung>
+        <Level>80</Level>
+        <Erfahrungspunkte>837</Erfahrungspunkte>
+        <Geschwindigkeit>10</Geschwindigkeit>
+        <Alter>28</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="GOD">
+        <Lebenspunkte>17705.03</Lebenspunkte>
+        <Angriffsschaden>362.58</Angriffsschaden>
+        <Rüstung>13.97</Rüstung>
+        <Level>74</Level>
+        <Erfahrungspunkte>239</Erfahrungspunkte>
+        <Geschwindigkeit>160</Geschwindigkeit>
+        <Alter>47</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="LEGENDARY">
+        <Lebenspunkte>5905.76</Lebenspunkte>
+        <Angriffsschaden>95.35</Angriffsschaden>
+        <Rüstung>27.77</Rüstung>
+        <Level>2</Level>
+        <Erfahrungspunkte>20</Erfahrungspunkte>
+        <Geschwindigkeit>210</Geschwindigkeit>
+        <Alter>80</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="RARE">
+        <Lebenspunkte>18275.47</Lebenspunkte>
+        <Angriffsschaden>466.83</Angriffsschaden>
+        <Rüstung>28.23</Rüstung>
+        <Level>99</Level>
+        <Erfahrungspunkte>61</Erfahrungspunkte>
+        <Geschwindigkeit>30</Geschwindigkeit>
+        <Alter>67</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="GOD">
+        <Lebenspunkte>8059.21</Lebenspunkte>
+        <Angriffsschaden>479</Angriffsschaden>
+        <Rüstung>5.41</Rüstung>
+        <Level>5</Level>
+        <Erfahrungspunkte>312</Erfahrungspunkte>
+        <Geschwindigkeit>20</Geschwindigkeit>
+        <Alter>9</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="RARE">
+        <Lebenspunkte>938.12</Lebenspunkte>
+        <Angriffsschaden>470.64</Angriffsschaden>
+        <Rüstung>9.49</Rüstung>
+        <Level>67</Level>
+        <Erfahrungspunkte>542</Erfahrungspunkte>
+        <Geschwindigkeit>120</Geschwindigkeit>
+        <Alter>88</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="COMMON">
+        <Lebenspunkte>9100.15</Lebenspunkte>
+        <Angriffsschaden>108.57</Angriffsschaden>
+        <Rüstung>3.58</Rüstung>
+        <Level>17</Level>
+        <Erfahrungspunkte>949</Erfahrungspunkte>
+        <Geschwindigkeit>130</Geschwindigkeit>
+        <Alter>88</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="RARE">
+        <Lebenspunkte>13419.95</Lebenspunkte>
+        <Angriffsschaden>280.48</Angriffsschaden>
+        <Rüstung>5.09</Rüstung>
+        <Level>84</Level>
+        <Erfahrungspunkte>734</Erfahrungspunkte>
+        <Geschwindigkeit>140</Geschwindigkeit>
+        <Alter>75</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="COMMON">
+        <Lebenspunkte>11107.33</Lebenspunkte>
+        <Angriffsschaden>266.9</Angriffsschaden>
+        <Rüstung>2.54</Rüstung>
+        <Level>26</Level>
+        <Erfahrungspunkte>125</Erfahrungspunkte>
+        <Geschwindigkeit>400</Geschwindigkeit>
+        <Alter>193</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="GOD">
+        <Lebenspunkte>15085.34</Lebenspunkte>
+        <Angriffsschaden>449.29</Angriffsschaden>
+        <Rüstung>23.66</Rüstung>
+        <Level>66</Level>
+        <Erfahrungspunkte>264</Erfahrungspunkte>
+        <Geschwindigkeit>60</Geschwindigkeit>
+        <Alter>156</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="GOD">
+        <Lebenspunkte>4677.26</Lebenspunkte>
+        <Angriffsschaden>366.07</Angriffsschaden>
+        <Rüstung>2.74</Rüstung>
+        <Level>12</Level>
+        <Erfahrungspunkte>792</Erfahrungspunkte>
+        <Geschwindigkeit>40</Geschwindigkeit>
+        <Alter>34</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="COMMON">
+        <Lebenspunkte>3668.94</Lebenspunkte>
+        <Angriffsschaden>326.67</Angriffsschaden>
+        <Rüstung>21.12</Rüstung>
+        <Level>72</Level>
+        <Erfahrungspunkte>105</Erfahrungspunkte>
+        <Geschwindigkeit>150</Geschwindigkeit>
+        <Alter>61</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="EPIC">
+        <Lebenspunkte>15784.54</Lebenspunkte>
+        <Angriffsschaden>286.82</Angriffsschaden>
+        <Rüstung>9.39</Rüstung>
+        <Level>51</Level>
+        <Erfahrungspunkte>948</Erfahrungspunkte>
+        <Geschwindigkeit>130</Geschwindigkeit>
+        <Alter>137</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>19153.42</Lebenspunkte>
+        <Angriffsschaden>213.78</Angriffsschaden>
+        <Rüstung>3.26</Rüstung>
+        <Level>54</Level>
+        <Erfahrungspunkte>900</Erfahrungspunkte>
+        <Geschwindigkeit>90</Geschwindigkeit>
+        <Alter>37</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="RARE">
+        <Lebenspunkte>3109.1</Lebenspunkte>
+        <Angriffsschaden>427.76</Angriffsschaden>
+        <Rüstung>5.16</Rüstung>
+        <Level>47</Level>
+        <Erfahrungspunkte>412</Erfahrungspunkte>
+        <Geschwindigkeit>370</Geschwindigkeit>
+        <Alter>95</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="GOD">
+        <Lebenspunkte>15931.02</Lebenspunkte>
+        <Angriffsschaden>307.6</Angriffsschaden>
+        <Rüstung>20.17</Rüstung>
+        <Level>42</Level>
+        <Erfahrungspunkte>178</Erfahrungspunkte>
+        <Geschwindigkeit>40</Geschwindigkeit>
+        <Alter>104</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="GOD">
+        <Lebenspunkte>15835.75</Lebenspunkte>
+        <Angriffsschaden>158.36</Angriffsschaden>
+        <Rüstung>6.61</Rüstung>
+        <Level>93</Level>
+        <Erfahrungspunkte>218</Erfahrungspunkte>
+        <Geschwindigkeit>340</Geschwindigkeit>
+        <Alter>74</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="COMMON">
+        <Lebenspunkte>4074.3</Lebenspunkte>
+        <Angriffsschaden>375.75</Angriffsschaden>
+        <Rüstung>12.1</Rüstung>
+        <Level>99</Level>
+        <Erfahrungspunkte>107</Erfahrungspunkte>
+        <Geschwindigkeit>420</Geschwindigkeit>
+        <Alter>92</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="LEGENDARY">
+        <Lebenspunkte>11371.72</Lebenspunkte>
+        <Angriffsschaden>88.31</Angriffsschaden>
+        <Rüstung>8.16</Rüstung>
+        <Level>94</Level>
+        <Erfahrungspunkte>104</Erfahrungspunkte>
+        <Geschwindigkeit>210</Geschwindigkeit>
+        <Alter>66</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="GOD">
+        <Lebenspunkte>8564.21</Lebenspunkte>
+        <Angriffsschaden>163.18</Angriffsschaden>
+        <Rüstung>0.06</Rüstung>
+        <Level>87</Level>
+        <Erfahrungspunkte>5</Erfahrungspunkte>
+        <Geschwindigkeit>230</Geschwindigkeit>
+        <Alter>179</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="EPIC">
+        <Lebenspunkte>16038.82</Lebenspunkte>
+        <Angriffsschaden>196.54</Angriffsschaden>
+        <Rüstung>7.66</Rüstung>
+        <Level>37</Level>
+        <Erfahrungspunkte>922</Erfahrungspunkte>
+        <Geschwindigkeit>390</Geschwindigkeit>
+        <Alter>187</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="GOD">
+        <Lebenspunkte>13913.96</Lebenspunkte>
+        <Angriffsschaden>240.66</Angriffsschaden>
+        <Rüstung>12.32</Rüstung>
+        <Level>81</Level>
+        <Erfahrungspunkte>618</Erfahrungspunkte>
+        <Geschwindigkeit>70</Geschwindigkeit>
+        <Alter>99</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="LEGENDARY">
+        <Lebenspunkte>19028.8</Lebenspunkte>
+        <Angriffsschaden>329.94</Angriffsschaden>
+        <Rüstung>7.85</Rüstung>
+        <Level>31</Level>
+        <Erfahrungspunkte>371</Erfahrungspunkte>
+        <Geschwindigkeit>310</Geschwindigkeit>
+        <Alter>132</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="LEGENDARY">
+        <Lebenspunkte>7754.83</Lebenspunkte>
+        <Angriffsschaden>488.56</Angriffsschaden>
+        <Rüstung>13.49</Rüstung>
+        <Level>67</Level>
+        <Erfahrungspunkte>880</Erfahrungspunkte>
+        <Geschwindigkeit>240</Geschwindigkeit>
+        <Alter>135</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="COMMON">
+        <Lebenspunkte>12606.22</Lebenspunkte>
+        <Angriffsschaden>240.65</Angriffsschaden>
+        <Rüstung>12.06</Rüstung>
+        <Level>65</Level>
+        <Erfahrungspunkte>798</Erfahrungspunkte>
+        <Geschwindigkeit>330</Geschwindigkeit>
+        <Alter>159</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="RARE">
+        <Lebenspunkte>15354.1</Lebenspunkte>
+        <Angriffsschaden>160.45</Angriffsschaden>
+        <Rüstung>8.26</Rüstung>
+        <Level>28</Level>
+        <Erfahrungspunkte>510</Erfahrungspunkte>
+        <Geschwindigkeit>30</Geschwindigkeit>
+        <Alter>32</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="EPIC">
+        <Lebenspunkte>12479.07</Lebenspunkte>
+        <Angriffsschaden>158.95</Angriffsschaden>
+        <Rüstung>16.82</Rüstung>
+        <Level>9</Level>
+        <Erfahrungspunkte>72</Erfahrungspunkte>
+        <Geschwindigkeit>340</Geschwindigkeit>
+        <Alter>64</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="LEGENDARY">
+        <Lebenspunkte>12027.91</Lebenspunkte>
+        <Angriffsschaden>22.01</Angriffsschaden>
+        <Rüstung>18.42</Rüstung>
+        <Level>15</Level>
+        <Erfahrungspunkte>806</Erfahrungspunkte>
+        <Geschwindigkeit>190</Geschwindigkeit>
+        <Alter>96</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="EPIC">
+        <Lebenspunkte>17874.72</Lebenspunkte>
+        <Angriffsschaden>319.78</Angriffsschaden>
+        <Rüstung>25.8</Rüstung>
+        <Level>18</Level>
+        <Erfahrungspunkte>11</Erfahrungspunkte>
+        <Geschwindigkeit>60</Geschwindigkeit>
+        <Alter>70</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="GOD">
+        <Lebenspunkte>16708.38</Lebenspunkte>
+        <Angriffsschaden>344.52</Angriffsschaden>
+        <Rüstung>4.85</Rüstung>
+        <Level>33</Level>
+        <Erfahrungspunkte>698</Erfahrungspunkte>
+        <Geschwindigkeit>300</Geschwindigkeit>
+        <Alter>97</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="COMMON">
+        <Lebenspunkte>4565.31</Lebenspunkte>
+        <Angriffsschaden>391.79</Angriffsschaden>
+        <Rüstung>21.56</Rüstung>
+        <Level>83</Level>
+        <Erfahrungspunkte>386</Erfahrungspunkte>
+        <Geschwindigkeit>10</Geschwindigkeit>
+        <Alter>88</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="RARE">
+        <Lebenspunkte>8992.68</Lebenspunkte>
+        <Angriffsschaden>340.78</Angriffsschaden>
+        <Rüstung>10.58</Rüstung>
+        <Level>32</Level>
+        <Erfahrungspunkte>163</Erfahrungspunkte>
+        <Geschwindigkeit>300</Geschwindigkeit>
+        <Alter>10</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="LEGENDARY">
+        <Lebenspunkte>16729.08</Lebenspunkte>
+        <Angriffsschaden>337</Angriffsschaden>
+        <Rüstung>9.23</Rüstung>
+        <Level>49</Level>
+        <Erfahrungspunkte>124</Erfahrungspunkte>
+        <Geschwindigkeit>40</Geschwindigkeit>
+        <Alter>129</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="LEGENDARY">
+        <Lebenspunkte>8394.04</Lebenspunkte>
+        <Angriffsschaden>391.73</Angriffsschaden>
+        <Rüstung>23.35</Rüstung>
+        <Level>91</Level>
+        <Erfahrungspunkte>701</Erfahrungspunkte>
+        <Geschwindigkeit>270</Geschwindigkeit>
+        <Alter>159</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="LEGENDARY">
+        <Lebenspunkte>16904.31</Lebenspunkte>
+        <Angriffsschaden>320.48</Angriffsschaden>
+        <Rüstung>28.87</Rüstung>
+        <Level>90</Level>
+        <Erfahrungspunkte>805</Erfahrungspunkte>
+        <Geschwindigkeit>80</Geschwindigkeit>
+        <Alter>194</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="RARE">
+        <Lebenspunkte>3385.64</Lebenspunkte>
+        <Angriffsschaden>359.59</Angriffsschaden>
+        <Rüstung>9.58</Rüstung>
+        <Level>14</Level>
+        <Erfahrungspunkte>363</Erfahrungspunkte>
+        <Geschwindigkeit>320</Geschwindigkeit>
+        <Alter>154</Alter>
+      </Monster>
+    </Monsters>
+  </Game>
+  <Game GameName="S9VXOMr4">
+    <Players PlayersNumber="4">
+      <Player Username="NRlfteq3" Password="EktHYBs2dq6buav9">
+        <InGameName>BvkRGlEVIWgD</InGameName>
+        <Money>9037315.78</Money>
+        <Spielzeit>9063</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Zoe Jackson" Rasse="DWARF">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>15483.15</Lebenspunkte>
+            <Angriffsschaden>179.77</Angriffsschaden>
+            <Rüstung>11.37</Rüstung>
+            <Level>83</Level>
+            <Erfahrungspunkte>934</Erfahrungspunkte>
+            <Geschwindigkeit>240</Geschwindigkeit>
+            <Alter>45</Alter>
+            <Motto>All tgat we see or seem is but a dream within a dream</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Emma White" Rasse="DEMIHUMAN">
+            <HeldenKlasse>HUNTER</HeldenKlasse>
+            <Lebenspunkte>17504.67</Lebenspunkte>
+            <Angriffsschaden>327.24</Angriffsschaden>
+            <Rüstung>3.11</Rüstung>
+            <Level>93</Level>
+            <Erfahrungspunkte>693</Erfahrungspunkte>
+            <Geschwindigkeit>260</Geschwindigkeit>
+            <Alter>155</Alter>
+            <Motto>There is nothing permanent except change</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Emma Martinez" Rasse="DWARF">
+            <HeldenKlasse>PALADIN</HeldenKlasse>
+            <Lebenspunkte>4388.62</Lebenspunkte>
+            <Angriffsschaden>424.88</Angriffsschaden>
+            <Rüstung>9.52</Rüstung>
+            <Level>62</Level>
+            <Erfahrungspunkte>670</Erfahrungspunkte>
+            <Geschwindigkeit>290</Geschwindigkeit>
+            <Alter>166</Alter>
+            <Motto>You cannot shake hands with a clenched fist</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Oliver Brown" Rasse="PANDA">
+            <HeldenKlasse>PALADIN</HeldenKlasse>
+            <Lebenspunkte>8107.31</Lebenspunkte>
+            <Angriffsschaden>388.86</Angriffsschaden>
+            <Rüstung>26.78</Rüstung>
+            <Level>91</Level>
+            <Erfahrungspunkte>603</Erfahrungspunkte>
+            <Geschwindigkeit>240</Geschwindigkeit>
+            <Alter>62</Alter>
+            <Motto>I have not failed. I've just found 10,000 ways that won't work</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Susanne Thompson" Rasse="DWARF">
+            <HeldenKlasse>HUNTER</HeldenKlasse>
+            <Lebenspunkte>14778.83</Lebenspunkte>
+            <Angriffsschaden>472.25</Angriffsschaden>
+            <Rüstung>7.76</Rüstung>
+            <Level>27</Level>
+            <Erfahrungspunkte>610</Erfahrungspunkte>
+            <Geschwindigkeit>80</Geschwindigkeit>
+            <Alter>74</Alter>
+            <Motto>DEMACIAAAAA</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Maximilian Harris" Rasse="HUMAN">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>9261.22</Lebenspunkte>
+            <Angriffsschaden>495.67</Angriffsschaden>
+            <Rüstung>6.57</Rüstung>
+            <Level>85</Level>
+            <Erfahrungspunkte>103</Erfahrungspunkte>
+            <Geschwindigkeit>200</Geschwindigkeit>
+            <Alter>15</Alter>
+            <Motto>The journes of a thousand miles beings with one step</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+      <Player Username="1m0dtREK" Password="W4yGPyBTWtd553gK">
+        <InGameName>wgoikJPJqAK8</InGameName>
+        <Money>9479002.48</Money>
+        <Spielzeit>1617</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Zoe Miller" Rasse="HUMAN">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>18873.69</Lebenspunkte>
+            <Angriffsschaden>414.73</Angriffsschaden>
+            <Rüstung>3.95</Rüstung>
+            <Level>47</Level>
+            <Erfahrungspunkte>169</Erfahrungspunkte>
+            <Geschwindigkeit>240</Geschwindigkeit>
+            <Alter>79</Alter>
+            <Motto>Legends never die</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Oliver Wilson" Rasse="ELF">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>11045.81</Lebenspunkte>
+            <Angriffsschaden>156.19</Angriffsschaden>
+            <Rüstung>18.8</Rüstung>
+            <Level>65</Level>
+            <Erfahrungspunkte>349</Erfahrungspunkte>
+            <Geschwindigkeit>160</Geschwindigkeit>
+            <Alter>130</Alter>
+            <Motto>The journes of a thousand miles beings with one step</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Hannah Robinson" Rasse="DEMIHUMAN">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>6837.56</Lebenspunkte>
+            <Angriffsschaden>233.79</Angriffsschaden>
+            <Rüstung>7.25</Rüstung>
+            <Level>5</Level>
+            <Erfahrungspunkte>402</Erfahrungspunkte>
+            <Geschwindigkeit>420</Geschwindigkeit>
+            <Alter>28</Alter>
+            <Motto>Thunderbolt!!!</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Emma Wilson" Rasse="HUMAN">
+            <HeldenKlasse>PALADIN</HeldenKlasse>
+            <Lebenspunkte>14033.68</Lebenspunkte>
+            <Angriffsschaden>206.12</Angriffsschaden>
+            <Rüstung>14.23</Rüstung>
+            <Level>84</Level>
+            <Erfahrungspunkte>186</Erfahrungspunkte>
+            <Geschwindigkeit>250</Geschwindigkeit>
+            <Alter>166</Alter>
+            <Motto>Learning never exhausts the mind</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Oliver White" Rasse="HUMAN">
+            <HeldenKlasse>PALADIN</HeldenKlasse>
+            <Lebenspunkte>19002.65</Lebenspunkte>
+            <Angriffsschaden>40.52</Angriffsschaden>
+            <Rüstung>1.1</Rüstung>
+            <Level>82</Level>
+            <Erfahrungspunkte>26</Erfahrungspunkte>
+            <Geschwindigkeit>310</Geschwindigkeit>
+            <Alter>83</Alter>
+            <Motto>The supreme art of war is to subdue the enemy without fighting</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Lucas Anderson" Rasse="GNOME">
+            <HeldenKlasse>ROGUE</HeldenKlasse>
+            <Lebenspunkte>14591.93</Lebenspunkte>
+            <Angriffsschaden>60.36</Angriffsschaden>
+            <Rüstung>3.08</Rüstung>
+            <Level>64</Level>
+            <Erfahrungspunkte>648</Erfahrungspunkte>
+            <Geschwindigkeit>110</Geschwindigkeit>
+            <Alter>30</Alter>
+            <Motto>Legends never die</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+      <Player Username="PJeuOOau" Password="7z8rIr0ZqfynuqNy">
+        <InGameName>6BfMhaLTH0Zm</InGameName>
+        <Money>2038224.78</Money>
+        <Spielzeit>3552</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Benjamin Thompson" Rasse="GNOME">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>9206.83</Lebenspunkte>
+            <Angriffsschaden>453.34</Angriffsschaden>
+            <Rüstung>13.06</Rüstung>
+            <Level>94</Level>
+            <Erfahrungspunkte>233</Erfahrungspunkte>
+            <Geschwindigkeit>330</Geschwindigkeit>
+            <Alter>128</Alter>
+            <Motto>The only journey is the one within</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Sebastian Thompson" Rasse="DWARF">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>8397.89</Lebenspunkte>
+            <Angriffsschaden>82.51</Angriffsschaden>
+            <Rüstung>18.72</Rüstung>
+            <Level>18</Level>
+            <Erfahrungspunkte>168</Erfahrungspunkte>
+            <Geschwindigkeit>280</Geschwindigkeit>
+            <Alter>184</Alter>
+            <Motto>All tgat we see or seem is but a dream within a dream</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Luke Williams" Rasse="HUMAN">
+            <HeldenKlasse>WARLOCK</HeldenKlasse>
+            <Lebenspunkte>12603.01</Lebenspunkte>
+            <Angriffsschaden>70.25</Angriffsschaden>
+            <Rüstung>16.25</Rüstung>
+            <Level>75</Level>
+            <Erfahrungspunkte>478</Erfahrungspunkte>
+            <Geschwindigkeit>260</Geschwindigkeit>
+            <Alter>30</Alter>
+            <Motto>If opportunity doesn't knock, build a door</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Maximilian Martin" Rasse="GNOME">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>16762.13</Lebenspunkte>
+            <Angriffsschaden>133.69</Angriffsschaden>
+            <Rüstung>16.07</Rüstung>
+            <Level>97</Level>
+            <Erfahrungspunkte>150</Erfahrungspunkte>
+            <Geschwindigkeit>400</Geschwindigkeit>
+            <Alter>129</Alter>
+            <Motto>Legends never die</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Luke Jackson" Rasse="GNOME">
+            <HeldenKlasse>MAGE</HeldenKlasse>
+            <Lebenspunkte>3506.9</Lebenspunkte>
+            <Angriffsschaden>272.14</Angriffsschaden>
+            <Rüstung>26.81</Rüstung>
+            <Level>25</Level>
+            <Erfahrungspunkte>989</Erfahrungspunkte>
+            <Geschwindigkeit>400</Geschwindigkeit>
+            <Alter>100</Alter>
+            <Motto>I have not failed. I've just found 10,000 ways that won't work</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Emma Moore" Rasse="PANDA">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>4973.65</Lebenspunkte>
+            <Angriffsschaden>106.98</Angriffsschaden>
+            <Rüstung>13.78</Rüstung>
+            <Level>9</Level>
+            <Erfahrungspunkte>303</Erfahrungspunkte>
+            <Geschwindigkeit>70</Geschwindigkeit>
+            <Alter>22</Alter>
+            <Motto>You cannot shake hands with a clenched fist</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+      <Player Username="Fl9PIWWK" Password="jrd2eaHQSSZhW4Cb">
+        <InGameName>AO10vSst3yuN</InGameName>
+        <Money>1803588.85</Money>
+        <Spielzeit>988</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Benjamin Miller" Rasse="PANDA">
+            <HeldenKlasse>WARLOCK</HeldenKlasse>
+            <Lebenspunkte>19730.55</Lebenspunkte>
+            <Angriffsschaden>70.77</Angriffsschaden>
+            <Rüstung>3.94</Rüstung>
+            <Level>79</Level>
+            <Erfahrungspunkte>108</Erfahrungspunkte>
+            <Geschwindigkeit>20</Geschwindigkeit>
+            <Alter>171</Alter>
+            <Motto>The only journey is the one within</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Zoe Lee" Rasse="PANDA">
+            <HeldenKlasse>PALADIN</HeldenKlasse>
+            <Lebenspunkte>5029.24</Lebenspunkte>
+            <Angriffsschaden>329.83</Angriffsschaden>
+            <Rüstung>20.34</Rüstung>
+            <Level>69</Level>
+            <Erfahrungspunkte>9</Erfahrungspunkte>
+            <Geschwindigkeit>330</Geschwindigkeit>
+            <Alter>101</Alter>
+            <Motto>Learning never exhausts the mind</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Anna Thompson" Rasse="GNOME">
+            <HeldenKlasse>WARLOCK</HeldenKlasse>
+            <Lebenspunkte>14380.02</Lebenspunkte>
+            <Angriffsschaden>76.56</Angriffsschaden>
+            <Rüstung>7.52</Rüstung>
+            <Level>56</Level>
+            <Erfahrungspunkte>455</Erfahrungspunkte>
+            <Geschwindigkeit>130</Geschwindigkeit>
+            <Alter>120</Alter>
+            <Motto>If opportunity doesn't knock, build a door</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Julian Martinez" Rasse="DEMIHUMAN">
+            <HeldenKlasse>THIEF</HeldenKlasse>
+            <Lebenspunkte>12213.72</Lebenspunkte>
+            <Angriffsschaden>483.19</Angriffsschaden>
+            <Rüstung>0.99</Rüstung>
+            <Level>28</Level>
+            <Erfahrungspunkte>712</Erfahrungspunkte>
+            <Geschwindigkeit>320</Geschwindigkeit>
+            <Alter>180</Alter>
+            <Motto>I have not failed. I've just found 10,000 ways that won't work</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Susanne Jackson" Rasse="PANDA">
+            <HeldenKlasse>MAGE</HeldenKlasse>
+            <Lebenspunkte>7744.14</Lebenspunkte>
+            <Angriffsschaden>106.16</Angriffsschaden>
+            <Rüstung>22.19</Rüstung>
+            <Level>61</Level>
+            <Erfahrungspunkte>69</Erfahrungspunkte>
+            <Geschwindigkeit>10</Geschwindigkeit>
+            <Alter>143</Alter>
+            <Motto>Thunderbolt!!!</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Emma White" Rasse="HUMAN">
+            <HeldenKlasse>THIEF</HeldenKlasse>
+            <Lebenspunkte>2283.89</Lebenspunkte>
+            <Angriffsschaden>253.12</Angriffsschaden>
+            <Rüstung>29.35</Rüstung>
+            <Level>71</Level>
+            <Erfahrungspunkte>212</Erfahrungspunkte>
+            <Geschwindigkeit>260</Geschwindigkeit>
+            <Alter>131</Alter>
+            <Motto>Learning never exhausts the mind</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+    </Players>
+    <Monsters>
+      <Monster Rasse="SPIDER" Seltenheit="GOD">
+        <Lebenspunkte>15255.98</Lebenspunkte>
+        <Angriffsschaden>437.18</Angriffsschaden>
+        <Rüstung>7.31</Rüstung>
+        <Level>17</Level>
+        <Erfahrungspunkte>617</Erfahrungspunkte>
+        <Geschwindigkeit>420</Geschwindigkeit>
+        <Alter>154</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="LEGENDARY">
+        <Lebenspunkte>3195.08</Lebenspunkte>
+        <Angriffsschaden>43.58</Angriffsschaden>
+        <Rüstung>29.96</Rüstung>
+        <Level>17</Level>
+        <Erfahrungspunkte>731</Erfahrungspunkte>
+        <Geschwindigkeit>370</Geschwindigkeit>
+        <Alter>73</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="LEGENDARY">
+        <Lebenspunkte>7891.91</Lebenspunkte>
+        <Angriffsschaden>161.23</Angriffsschaden>
+        <Rüstung>13.28</Rüstung>
+        <Level>69</Level>
+        <Erfahrungspunkte>399</Erfahrungspunkte>
+        <Geschwindigkeit>340</Geschwindigkeit>
+        <Alter>187</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="COMMON">
+        <Lebenspunkte>6721.99</Lebenspunkte>
+        <Angriffsschaden>466.05</Angriffsschaden>
+        <Rüstung>6.61</Rüstung>
+        <Level>12</Level>
+        <Erfahrungspunkte>424</Erfahrungspunkte>
+        <Geschwindigkeit>310</Geschwindigkeit>
+        <Alter>29</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="COMMON">
+        <Lebenspunkte>13426.19</Lebenspunkte>
+        <Angriffsschaden>273.69</Angriffsschaden>
+        <Rüstung>19.28</Rüstung>
+        <Level>55</Level>
+        <Erfahrungspunkte>132</Erfahrungspunkte>
+        <Geschwindigkeit>230</Geschwindigkeit>
+        <Alter>51</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="GOD">
+        <Lebenspunkte>1028.76</Lebenspunkte>
+        <Angriffsschaden>464.92</Angriffsschaden>
+        <Rüstung>11.04</Rüstung>
+        <Level>38</Level>
+        <Erfahrungspunkte>446</Erfahrungspunkte>
+        <Geschwindigkeit>190</Geschwindigkeit>
+        <Alter>74</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="LEGENDARY">
+        <Lebenspunkte>6475.45</Lebenspunkte>
+        <Angriffsschaden>426.75</Angriffsschaden>
+        <Rüstung>11.05</Rüstung>
+        <Level>98</Level>
+        <Erfahrungspunkte>190</Erfahrungspunkte>
+        <Geschwindigkeit>260</Geschwindigkeit>
+        <Alter>172</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>298.02</Lebenspunkte>
+        <Angriffsschaden>335.4</Angriffsschaden>
+        <Rüstung>28.11</Rüstung>
+        <Level>43</Level>
+        <Erfahrungspunkte>956</Erfahrungspunkte>
+        <Geschwindigkeit>300</Geschwindigkeit>
+        <Alter>1</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="EPIC">
+        <Lebenspunkte>19235.61</Lebenspunkte>
+        <Angriffsschaden>388.4</Angriffsschaden>
+        <Rüstung>23.98</Rüstung>
+        <Level>85</Level>
+        <Erfahrungspunkte>765</Erfahrungspunkte>
+        <Geschwindigkeit>390</Geschwindigkeit>
+        <Alter>36</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="RARE">
+        <Lebenspunkte>19929.49</Lebenspunkte>
+        <Angriffsschaden>93.96</Angriffsschaden>
+        <Rüstung>20.93</Rüstung>
+        <Level>90</Level>
+        <Erfahrungspunkte>557</Erfahrungspunkte>
+        <Geschwindigkeit>370</Geschwindigkeit>
+        <Alter>160</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="LEGENDARY">
+        <Lebenspunkte>13847.98</Lebenspunkte>
+        <Angriffsschaden>167.15</Angriffsschaden>
+        <Rüstung>1.84</Rüstung>
+        <Level>8</Level>
+        <Erfahrungspunkte>567</Erfahrungspunkte>
+        <Geschwindigkeit>190</Geschwindigkeit>
+        <Alter>66</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="LEGENDARY">
+        <Lebenspunkte>9239.75</Lebenspunkte>
+        <Angriffsschaden>184.16</Angriffsschaden>
+        <Rüstung>12.39</Rüstung>
+        <Level>36</Level>
+        <Erfahrungspunkte>498</Erfahrungspunkte>
+        <Geschwindigkeit>110</Geschwindigkeit>
+        <Alter>75</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="GOD">
+        <Lebenspunkte>10959.97</Lebenspunkte>
+        <Angriffsschaden>209.23</Angriffsschaden>
+        <Rüstung>2.74</Rüstung>
+        <Level>40</Level>
+        <Erfahrungspunkte>2</Erfahrungspunkte>
+        <Geschwindigkeit>280</Geschwindigkeit>
+        <Alter>31</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="LEGENDARY">
+        <Lebenspunkte>15377.46</Lebenspunkte>
+        <Angriffsschaden>470.84</Angriffsschaden>
+        <Rüstung>13.31</Rüstung>
+        <Level>16</Level>
+        <Erfahrungspunkte>768</Erfahrungspunkte>
+        <Geschwindigkeit>280</Geschwindigkeit>
+        <Alter>121</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="EPIC">
+        <Lebenspunkte>19957.83</Lebenspunkte>
+        <Angriffsschaden>62.8</Angriffsschaden>
+        <Rüstung>18.25</Rüstung>
+        <Level>53</Level>
+        <Erfahrungspunkte>699</Erfahrungspunkte>
+        <Geschwindigkeit>120</Geschwindigkeit>
+        <Alter>183</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="LEGENDARY">
+        <Lebenspunkte>8370.74</Lebenspunkte>
+        <Angriffsschaden>126.21</Angriffsschaden>
+        <Rüstung>8.96</Rüstung>
+        <Level>75</Level>
+        <Erfahrungspunkte>818</Erfahrungspunkte>
+        <Geschwindigkeit>20</Geschwindigkeit>
+        <Alter>14</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="GOD">
+        <Lebenspunkte>466.19</Lebenspunkte>
+        <Angriffsschaden>262.14</Angriffsschaden>
+        <Rüstung>9.76</Rüstung>
+        <Level>5</Level>
+        <Erfahrungspunkte>924</Erfahrungspunkte>
+        <Geschwindigkeit>70</Geschwindigkeit>
+        <Alter>191</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="LEGENDARY">
+        <Lebenspunkte>8605.43</Lebenspunkte>
+        <Angriffsschaden>325.87</Angriffsschaden>
+        <Rüstung>18.12</Rüstung>
+        <Level>81</Level>
+        <Erfahrungspunkte>204</Erfahrungspunkte>
+        <Geschwindigkeit>100</Geschwindigkeit>
+        <Alter>134</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>15266.98</Lebenspunkte>
+        <Angriffsschaden>55.85</Angriffsschaden>
+        <Rüstung>13.56</Rüstung>
+        <Level>28</Level>
+        <Erfahrungspunkte>881</Erfahrungspunkte>
+        <Geschwindigkeit>210</Geschwindigkeit>
+        <Alter>107</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="RARE">
+        <Lebenspunkte>10287.27</Lebenspunkte>
+        <Angriffsschaden>23.03</Angriffsschaden>
+        <Rüstung>23.56</Rüstung>
+        <Level>74</Level>
+        <Erfahrungspunkte>196</Erfahrungspunkte>
+        <Geschwindigkeit>50</Geschwindigkeit>
+        <Alter>133</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="LEGENDARY">
+        <Lebenspunkte>10585.96</Lebenspunkte>
+        <Angriffsschaden>297.8</Angriffsschaden>
+        <Rüstung>29.64</Rüstung>
+        <Level>84</Level>
+        <Erfahrungspunkte>59</Erfahrungspunkte>
+        <Geschwindigkeit>250</Geschwindigkeit>
+        <Alter>24</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="EPIC">
+        <Lebenspunkte>2032.97</Lebenspunkte>
+        <Angriffsschaden>436.24</Angriffsschaden>
+        <Rüstung>25.92</Rüstung>
+        <Level>19</Level>
+        <Erfahrungspunkte>433</Erfahrungspunkte>
+        <Geschwindigkeit>310</Geschwindigkeit>
+        <Alter>174</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="RARE">
+        <Lebenspunkte>871.63</Lebenspunkte>
+        <Angriffsschaden>285.73</Angriffsschaden>
+        <Rüstung>2.14</Rüstung>
+        <Level>55</Level>
+        <Erfahrungspunkte>239</Erfahrungspunkte>
+        <Geschwindigkeit>220</Geschwindigkeit>
+        <Alter>136</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="RARE">
+        <Lebenspunkte>16469.33</Lebenspunkte>
+        <Angriffsschaden>54.49</Angriffsschaden>
+        <Rüstung>14.13</Rüstung>
+        <Level>32</Level>
+        <Erfahrungspunkte>912</Erfahrungspunkte>
+        <Geschwindigkeit>260</Geschwindigkeit>
+        <Alter>194</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="LEGENDARY">
+        <Lebenspunkte>7045.68</Lebenspunkte>
+        <Angriffsschaden>462.76</Angriffsschaden>
+        <Rüstung>14.18</Rüstung>
+        <Level>20</Level>
+        <Erfahrungspunkte>260</Erfahrungspunkte>
+        <Geschwindigkeit>10</Geschwindigkeit>
+        <Alter>12</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="COMMON">
+        <Lebenspunkte>1985.22</Lebenspunkte>
+        <Angriffsschaden>346.11</Angriffsschaden>
+        <Rüstung>6.88</Rüstung>
+        <Level>79</Level>
+        <Erfahrungspunkte>837</Erfahrungspunkte>
+        <Geschwindigkeit>300</Geschwindigkeit>
+        <Alter>95</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="COMMON">
+        <Lebenspunkte>7134.89</Lebenspunkte>
+        <Angriffsschaden>474.01</Angriffsschaden>
+        <Rüstung>26.42</Rüstung>
+        <Level>2</Level>
+        <Erfahrungspunkte>44</Erfahrungspunkte>
+        <Geschwindigkeit>240</Geschwindigkeit>
+        <Alter>154</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>19257.39</Lebenspunkte>
+        <Angriffsschaden>30.11</Angriffsschaden>
+        <Rüstung>28.68</Rüstung>
+        <Level>51</Level>
+        <Erfahrungspunkte>557</Erfahrungspunkte>
+        <Geschwindigkeit>20</Geschwindigkeit>
+        <Alter>116</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>12639.84</Lebenspunkte>
+        <Angriffsschaden>363.06</Angriffsschaden>
+        <Rüstung>12.48</Rüstung>
+        <Level>3</Level>
+        <Erfahrungspunkte>372</Erfahrungspunkte>
+        <Geschwindigkeit>100</Geschwindigkeit>
+        <Alter>132</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="LEGENDARY">
+        <Lebenspunkte>15282.88</Lebenspunkte>
+        <Angriffsschaden>193.31</Angriffsschaden>
+        <Rüstung>3.89</Rüstung>
+        <Level>12</Level>
+        <Erfahrungspunkte>301</Erfahrungspunkte>
+        <Geschwindigkeit>300</Geschwindigkeit>
+        <Alter>139</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="COMMON">
+        <Lebenspunkte>16126.57</Lebenspunkte>
+        <Angriffsschaden>67.63</Angriffsschaden>
+        <Rüstung>0.36</Rüstung>
+        <Level>79</Level>
+        <Erfahrungspunkte>904</Erfahrungspunkte>
+        <Geschwindigkeit>20</Geschwindigkeit>
+        <Alter>59</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="RARE">
+        <Lebenspunkte>17742.43</Lebenspunkte>
+        <Angriffsschaden>140.59</Angriffsschaden>
+        <Rüstung>27.5</Rüstung>
+        <Level>6</Level>
+        <Erfahrungspunkte>185</Erfahrungspunkte>
+        <Geschwindigkeit>210</Geschwindigkeit>
+        <Alter>115</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="EPIC">
+        <Lebenspunkte>2378.14</Lebenspunkte>
+        <Angriffsschaden>132.36</Angriffsschaden>
+        <Rüstung>11.92</Rüstung>
+        <Level>13</Level>
+        <Erfahrungspunkte>920</Erfahrungspunkte>
+        <Geschwindigkeit>320</Geschwindigkeit>
+        <Alter>66</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="COMMON">
+        <Lebenspunkte>5862.46</Lebenspunkte>
+        <Angriffsschaden>104.35</Angriffsschaden>
+        <Rüstung>8.26</Rüstung>
+        <Level>27</Level>
+        <Erfahrungspunkte>923</Erfahrungspunkte>
+        <Geschwindigkeit>280</Geschwindigkeit>
+        <Alter>146</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>5684.37</Lebenspunkte>
+        <Angriffsschaden>309.05</Angriffsschaden>
+        <Rüstung>22.66</Rüstung>
+        <Level>60</Level>
+        <Erfahrungspunkte>934</Erfahrungspunkte>
+        <Geschwindigkeit>150</Geschwindigkeit>
+        <Alter>27</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="RARE">
+        <Lebenspunkte>15264.49</Lebenspunkte>
+        <Angriffsschaden>129.03</Angriffsschaden>
+        <Rüstung>15.23</Rüstung>
+        <Level>28</Level>
+        <Erfahrungspunkte>319</Erfahrungspunkte>
+        <Geschwindigkeit>400</Geschwindigkeit>
+        <Alter>3</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="LEGENDARY">
+        <Lebenspunkte>3326.79</Lebenspunkte>
+        <Angriffsschaden>448.76</Angriffsschaden>
+        <Rüstung>11.15</Rüstung>
+        <Level>5</Level>
+        <Erfahrungspunkte>992</Erfahrungspunkte>
+        <Geschwindigkeit>160</Geschwindigkeit>
+        <Alter>94</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="LEGENDARY">
+        <Lebenspunkte>8090.49</Lebenspunkte>
+        <Angriffsschaden>316.43</Angriffsschaden>
+        <Rüstung>19.51</Rüstung>
+        <Level>23</Level>
+        <Erfahrungspunkte>5</Erfahrungspunkte>
+        <Geschwindigkeit>180</Geschwindigkeit>
+        <Alter>174</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="RARE">
+        <Lebenspunkte>19072.05</Lebenspunkte>
+        <Angriffsschaden>66.24</Angriffsschaden>
+        <Rüstung>11.72</Rüstung>
+        <Level>77</Level>
+        <Erfahrungspunkte>650</Erfahrungspunkte>
+        <Geschwindigkeit>310</Geschwindigkeit>
+        <Alter>136</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>1921.94</Lebenspunkte>
+        <Angriffsschaden>261.24</Angriffsschaden>
+        <Rüstung>12.22</Rüstung>
+        <Level>35</Level>
+        <Erfahrungspunkte>917</Erfahrungspunkte>
+        <Geschwindigkeit>140</Geschwindigkeit>
+        <Alter>39</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="LEGENDARY">
+        <Lebenspunkte>11680.14</Lebenspunkte>
+        <Angriffsschaden>299.62</Angriffsschaden>
+        <Rüstung>4.24</Rüstung>
+        <Level>92</Level>
+        <Erfahrungspunkte>565</Erfahrungspunkte>
+        <Geschwindigkeit>50</Geschwindigkeit>
+        <Alter>28</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="EPIC">
+        <Lebenspunkte>5949.93</Lebenspunkte>
+        <Angriffsschaden>61.32</Angriffsschaden>
+        <Rüstung>0.21</Rüstung>
+        <Level>36</Level>
+        <Erfahrungspunkte>13</Erfahrungspunkte>
+        <Geschwindigkeit>70</Geschwindigkeit>
+        <Alter>138</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="GOD">
+        <Lebenspunkte>3628.67</Lebenspunkte>
+        <Angriffsschaden>214.9</Angriffsschaden>
+        <Rüstung>24.55</Rüstung>
+        <Level>44</Level>
+        <Erfahrungspunkte>133</Erfahrungspunkte>
+        <Geschwindigkeit>70</Geschwindigkeit>
+        <Alter>38</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>1037.94</Lebenspunkte>
+        <Angriffsschaden>282.66</Angriffsschaden>
+        <Rüstung>28.45</Rüstung>
+        <Level>9</Level>
+        <Erfahrungspunkte>275</Erfahrungspunkte>
+        <Geschwindigkeit>380</Geschwindigkeit>
+        <Alter>49</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="LEGENDARY">
+        <Lebenspunkte>16136.41</Lebenspunkte>
+        <Angriffsschaden>405.79</Angriffsschaden>
+        <Rüstung>3.39</Rüstung>
+        <Level>86</Level>
+        <Erfahrungspunkte>195</Erfahrungspunkte>
+        <Geschwindigkeit>60</Geschwindigkeit>
+        <Alter>29</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="EPIC">
+        <Lebenspunkte>7566.93</Lebenspunkte>
+        <Angriffsschaden>64.62</Angriffsschaden>
+        <Rüstung>5.34</Rüstung>
+        <Level>95</Level>
+        <Erfahrungspunkte>155</Erfahrungspunkte>
+        <Geschwindigkeit>330</Geschwindigkeit>
+        <Alter>30</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="COMMON">
+        <Lebenspunkte>15494.74</Lebenspunkte>
+        <Angriffsschaden>481.3</Angriffsschaden>
+        <Rüstung>0.04</Rüstung>
+        <Level>43</Level>
+        <Erfahrungspunkte>154</Erfahrungspunkte>
+        <Geschwindigkeit>260</Geschwindigkeit>
+        <Alter>174</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="COMMON">
+        <Lebenspunkte>1464.51</Lebenspunkte>
+        <Angriffsschaden>479.24</Angriffsschaden>
+        <Rüstung>12.36</Rüstung>
+        <Level>41</Level>
+        <Erfahrungspunkte>15</Erfahrungspunkte>
+        <Geschwindigkeit>170</Geschwindigkeit>
+        <Alter>30</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="GOD">
+        <Lebenspunkte>1574.06</Lebenspunkte>
+        <Angriffsschaden>15.91</Angriffsschaden>
+        <Rüstung>29.84</Rüstung>
+        <Level>6</Level>
+        <Erfahrungspunkte>565</Erfahrungspunkte>
+        <Geschwindigkeit>270</Geschwindigkeit>
+        <Alter>149</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="GOD">
+        <Lebenspunkte>9549.33</Lebenspunkte>
+        <Angriffsschaden>290.13</Angriffsschaden>
+        <Rüstung>2.63</Rüstung>
+        <Level>29</Level>
+        <Erfahrungspunkte>613</Erfahrungspunkte>
+        <Geschwindigkeit>40</Geschwindigkeit>
+        <Alter>169</Alter>
+      </Monster>
+    </Monsters>
+  </Game>
+  <Game GameName="I63MNysd">
+    <Players PlayersNumber="4">
+      <Player Username="IhQ5Y3m2" Password="xv7uBfsfaUMzEkXI">
+        <InGameName>TNiY1eZoGuxi</InGameName>
+        <Money>8655578.38</Money>
+        <Spielzeit>2061</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Zoe Thomas" Rasse="GNOME">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>14107.56</Lebenspunkte>
+            <Angriffsschaden>75.13</Angriffsschaden>
+            <Rüstung>22.88</Rüstung>
+            <Level>98</Level>
+            <Erfahrungspunkte>107</Erfahrungspunkte>
+            <Geschwindigkeit>30</Geschwindigkeit>
+            <Alter>143</Alter>
+            <Motto>I have not failed. I've just found 10,000 ways that won't work</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Emma Taylor" Rasse="DWARF">
+            <HeldenKlasse>PALADIN</HeldenKlasse>
+            <Lebenspunkte>2445.31</Lebenspunkte>
+            <Angriffsschaden>74.38</Angriffsschaden>
+            <Rüstung>13.13</Rüstung>
+            <Level>59</Level>
+            <Erfahrungspunkte>441</Erfahrungspunkte>
+            <Geschwindigkeit>400</Geschwindigkeit>
+            <Alter>182</Alter>
+            <Motto>Learning never exhausts the mind</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Caitlynn Thomas" Rasse="DWARF">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>15289.07</Lebenspunkte>
+            <Angriffsschaden>352.42</Angriffsschaden>
+            <Rüstung>12.31</Rüstung>
+            <Level>87</Level>
+            <Erfahrungspunkte>358</Erfahrungspunkte>
+            <Geschwindigkeit>150</Geschwindigkeit>
+            <Alter>159</Alter>
+            <Motto>Heeeeeelp meeeee</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Anna Brown" Rasse="DWARF">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>10263.55</Lebenspunkte>
+            <Angriffsschaden>356.75</Angriffsschaden>
+            <Rüstung>17.8</Rüstung>
+            <Level>78</Level>
+            <Erfahrungspunkte>419</Erfahrungspunkte>
+            <Geschwindigkeit>170</Geschwindigkeit>
+            <Alter>6</Alter>
+            <Motto>If opportunity doesn't knock, build a door</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Anna Brown" Rasse="DEMIHUMAN">
+            <HeldenKlasse>HUNTER</HeldenKlasse>
+            <Lebenspunkte>1812.59</Lebenspunkte>
+            <Angriffsschaden>193.32</Angriffsschaden>
+            <Rüstung>3.58</Rüstung>
+            <Level>12</Level>
+            <Erfahrungspunkte>777</Erfahrungspunkte>
+            <Geschwindigkeit>120</Geschwindigkeit>
+            <Alter>139</Alter>
+            <Motto>Thunderbolt!!!</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Victoria Martinez" Rasse="PANDA">
+            <HeldenKlasse>WARLOCK</HeldenKlasse>
+            <Lebenspunkte>9700.87</Lebenspunkte>
+            <Angriffsschaden>381.28</Angriffsschaden>
+            <Rüstung>13.11</Rüstung>
+            <Level>57</Level>
+            <Erfahrungspunkte>566</Erfahrungspunkte>
+            <Geschwindigkeit>210</Geschwindigkeit>
+            <Alter>136</Alter>
+            <Motto>If opportunity doesn't knock, build a door</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+      <Player Username="KjjpvZNn" Password="MTNjgHvVnYmgqHvf">
+        <InGameName>dZabBzp22DjY</InGameName>
+        <Money>9757137.93</Money>
+        <Spielzeit>7578</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Emily Garcia" Rasse="HUMAN">
+            <HeldenKlasse>HUNTER</HeldenKlasse>
+            <Lebenspunkte>11313.8</Lebenspunkte>
+            <Angriffsschaden>147.95</Angriffsschaden>
+            <Rüstung>21.46</Rüstung>
+            <Level>97</Level>
+            <Erfahrungspunkte>354</Erfahrungspunkte>
+            <Geschwindigkeit>260</Geschwindigkeit>
+            <Alter>142</Alter>
+            <Motto>Legends never die</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Hannah Smith" Rasse="PANDA">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>17602.69</Lebenspunkte>
+            <Angriffsschaden>398.97</Angriffsschaden>
+            <Rüstung>9.79</Rüstung>
+            <Level>36</Level>
+            <Erfahrungspunkte>657</Erfahrungspunkte>
+            <Geschwindigkeit>340</Geschwindigkeit>
+            <Alter>193</Alter>
+            <Motto>Learning never exhausts the mind</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Charlotte Anderson" Rasse="HUMAN">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>8046</Lebenspunkte>
+            <Angriffsschaden>158.5</Angriffsschaden>
+            <Rüstung>7.39</Rüstung>
+            <Level>33</Level>
+            <Erfahrungspunkte>939</Erfahrungspunkte>
+            <Geschwindigkeit>140</Geschwindigkeit>
+            <Alter>123</Alter>
+            <Motto>The journes of a thousand miles beings with one step</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Oliver Anderson" Rasse="GNOME">
+            <HeldenKlasse>WARLOCK</HeldenKlasse>
+            <Lebenspunkte>15281.87</Lebenspunkte>
+            <Angriffsschaden>414.69</Angriffsschaden>
+            <Rüstung>7.21</Rüstung>
+            <Level>11</Level>
+            <Erfahrungspunkte>448</Erfahrungspunkte>
+            <Geschwindigkeit>80</Geschwindigkeit>
+            <Alter>130</Alter>
+            <Motto>You cannot shake hands with a clenched fist</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Isabella Martin" Rasse="DEMIHUMAN">
+            <HeldenKlasse>PRIEST</HeldenKlasse>
+            <Lebenspunkte>16206.28</Lebenspunkte>
+            <Angriffsschaden>160.68</Angriffsschaden>
+            <Rüstung>8.28</Rüstung>
+            <Level>84</Level>
+            <Erfahrungspunkte>915</Erfahrungspunkte>
+            <Geschwindigkeit>40</Geschwindigkeit>
+            <Alter>1</Alter>
+            <Motto>The only journey is the one within</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Jackson Thompson" Rasse="ELF">
+            <HeldenKlasse>ROGUE</HeldenKlasse>
+            <Lebenspunkte>10838.9</Lebenspunkte>
+            <Angriffsschaden>428.81</Angriffsschaden>
+            <Rüstung>21.02</Rüstung>
+            <Level>51</Level>
+            <Erfahrungspunkte>644</Erfahrungspunkte>
+            <Geschwindigkeit>110</Geschwindigkeit>
+            <Alter>186</Alter>
+            <Motto>Legends never die</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+      <Player Username="5EHXue3c" Password="pno9D11OR3VylL1r">
+        <InGameName>VpCTDzbefjNd</InGameName>
+        <Money>1215206.14</Money>
+        <Spielzeit>1338</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Lucas Jones" Rasse="DEMIHUMAN">
+            <HeldenKlasse>WARLOCK</HeldenKlasse>
+            <Lebenspunkte>1113.4</Lebenspunkte>
+            <Angriffsschaden>13.54</Angriffsschaden>
+            <Rüstung>25.9</Rüstung>
+            <Level>29</Level>
+            <Erfahrungspunkte>539</Erfahrungspunkte>
+            <Geschwindigkeit>240</Geschwindigkeit>
+            <Alter>139</Alter>
+            <Motto>DEMACIAAAAA</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Isabella Clark" Rasse="ELF">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>16547.33</Lebenspunkte>
+            <Angriffsschaden>291.23</Angriffsschaden>
+            <Rüstung>18.46</Rüstung>
+            <Level>82</Level>
+            <Erfahrungspunkte>800</Erfahrungspunkte>
+            <Geschwindigkeit>150</Geschwindigkeit>
+            <Alter>119</Alter>
+            <Motto>I have not failed. I've just found 10,000 ways that won't work</Motto>
+            <Fähigkeit>
+              <AbilityName>Fliegen</AbilityName>
+              <AbilityDescription>Hero fliegt in der Luft</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Sebastian Garcia" Rasse="DEMIHUMAN">
+            <HeldenKlasse>THIEF</HeldenKlasse>
+            <Lebenspunkte>8611.76</Lebenspunkte>
+            <Angriffsschaden>416.57</Angriffsschaden>
+            <Rüstung>0.17</Rüstung>
+            <Level>99</Level>
+            <Erfahrungspunkte>307</Erfahrungspunkte>
+            <Geschwindigkeit>350</Geschwindigkeit>
+            <Alter>178</Alter>
+            <Motto>I have not failed. I've just found 10,000 ways that won't work</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Caitlynn Lee" Rasse="DWARF">
+            <HeldenKlasse>WARLOCK</HeldenKlasse>
+            <Lebenspunkte>19224.76</Lebenspunkte>
+            <Angriffsschaden>148.28</Angriffsschaden>
+            <Rüstung>10.03</Rüstung>
+            <Level>71</Level>
+            <Erfahrungspunkte>114</Erfahrungspunkte>
+            <Geschwindigkeit>250</Geschwindigkeit>
+            <Alter>151</Alter>
+            <Motto>My Magic will tear you apart</Motto>
+            <Fähigkeit>
+              <AbilityName>Dornenpanzer</AbilityName>
+              <AbilityDescription>Zugefügter Schaden wird um die Hälfte zurück reflektiert</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Jacob Taylor" Rasse="GNOME">
+            <HeldenKlasse>WARRIOR</HeldenKlasse>
+            <Lebenspunkte>2876.41</Lebenspunkte>
+            <Angriffsschaden>360.05</Angriffsschaden>
+            <Rüstung>12.26</Rüstung>
+            <Level>17</Level>
+            <Erfahrungspunkte>346</Erfahrungspunkte>
+            <Geschwindigkeit>330</Geschwindigkeit>
+            <Alter>80</Alter>
+            <Motto>I have not failed. I've just found 10,000 ways that won't work</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Julian Harris" Rasse="GNOME">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>7075.9</Lebenspunkte>
+            <Angriffsschaden>371.83</Angriffsschaden>
+            <Rüstung>24.49</Rüstung>
+            <Level>100</Level>
+            <Erfahrungspunkte>760</Erfahrungspunkte>
+            <Geschwindigkeit>120</Geschwindigkeit>
+            <Alter>57</Alter>
+            <Motto>DEMACIAAAAA</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+      <Player Username="V9pULx2b" Password="xhGDcm2ySRH4zZUJ">
+        <InGameName>DogJzm2NbhjE</InGameName>
+        <Money>3508456.97</Money>
+        <Spielzeit>5764</Spielzeit>
+        <Heroes HeroesNumber="6">
+          <Held Name="Lucas Moore" Rasse="PANDA">
+            <HeldenKlasse>PRIEST</HeldenKlasse>
+            <Lebenspunkte>15548.98</Lebenspunkte>
+            <Angriffsschaden>410.35</Angriffsschaden>
+            <Rüstung>17.45</Rüstung>
+            <Level>52</Level>
+            <Erfahrungspunkte>238</Erfahrungspunkte>
+            <Geschwindigkeit>100</Geschwindigkeit>
+            <Alter>45</Alter>
+            <Motto>DEMACIAAAAA</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Emma Jackson" Rasse="DEMIHUMAN">
+            <HeldenKlasse>NINJA</HeldenKlasse>
+            <Lebenspunkte>1159.35</Lebenspunkte>
+            <Angriffsschaden>193.25</Angriffsschaden>
+            <Rüstung>23.03</Rüstung>
+            <Level>69</Level>
+            <Erfahrungspunkte>523</Erfahrungspunkte>
+            <Geschwindigkeit>200</Geschwindigkeit>
+            <Alter>85</Alter>
+            <Motto>You cannot shake hands with a clenched fist</Motto>
+            <Fähigkeit>
+              <AbilityName>Eislanze</AbilityName>
+              <AbilityDescription>Hero zaubert Eislanzen aus dem nichts und wirft sie</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Jacob Smith" Rasse="DWARF">
+            <HeldenKlasse>MAGE</HeldenKlasse>
+            <Lebenspunkte>18245</Lebenspunkte>
+            <Angriffsschaden>190.62</Angriffsschaden>
+            <Rüstung>4.29</Rüstung>
+            <Level>76</Level>
+            <Erfahrungspunkte>740</Erfahrungspunkte>
+            <Geschwindigkeit>360</Geschwindigkeit>
+            <Alter>130</Alter>
+            <Motto>Learning never exhausts the mind</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Jacob Thompson" Rasse="DWARF">
+            <HeldenKlasse>PALADIN</HeldenKlasse>
+            <Lebenspunkte>896.72</Lebenspunkte>
+            <Angriffsschaden>273.04</Angriffsschaden>
+            <Rüstung>24.84</Rüstung>
+            <Level>13</Level>
+            <Erfahrungspunkte>367</Erfahrungspunkte>
+            <Geschwindigkeit>220</Geschwindigkeit>
+            <Alter>130</Alter>
+            <Motto>The journes of a thousand miles beings with one step</Motto>
+            <Fähigkeit>
+              <AbilityName>Unsichbarkeit</AbilityName>
+              <AbilityDescription>Hero wird unsichtbar</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Luke Clark" Rasse="ELF">
+            <HeldenKlasse>PRIEST</HeldenKlasse>
+            <Lebenspunkte>18727.3</Lebenspunkte>
+            <Angriffsschaden>478.03</Angriffsschaden>
+            <Rüstung>6.41</Rüstung>
+            <Level>47</Level>
+            <Erfahrungspunkte>765</Erfahrungspunkte>
+            <Geschwindigkeit>250</Geschwindigkeit>
+            <Alter>142</Alter>
+            <Motto>But man is not made for defeat. A man can be destroyed but not defeated</Motto>
+            <Fähigkeit>
+              <AbilityName>Feuerball</AbilityName>
+              <AbilityDescription>Hero schießt Feuerbälle aus den Händen</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+          <Held Name="Emily Lee" Rasse="HUMAN">
+            <HeldenKlasse>ROGUE</HeldenKlasse>
+            <Lebenspunkte>9635.78</Lebenspunkte>
+            <Angriffsschaden>373.6</Angriffsschaden>
+            <Rüstung>24.97</Rüstung>
+            <Level>53</Level>
+            <Erfahrungspunkte>591</Erfahrungspunkte>
+            <Geschwindigkeit>60</Geschwindigkeit>
+            <Alter>43</Alter>
+            <Motto>Learning never exhausts the mind</Motto>
+            <Fähigkeit>
+              <AbilityName>Donnerblitz</AbilityName>
+              <AbilityDescription>Hero beschwört einen Donner vom Himmel</AbilityDescription>
+            </Fähigkeit>
+          </Held>
+        </Heroes>
+      </Player>
+    </Players>
+    <Monsters>
+      <Monster Rasse="HARALD" Seltenheit="COMMON">
+        <Lebenspunkte>15517.02</Lebenspunkte>
+        <Angriffsschaden>307.7</Angriffsschaden>
+        <Rüstung>8.42</Rüstung>
+        <Level>30</Level>
+        <Erfahrungspunkte>19</Erfahrungspunkte>
+        <Geschwindigkeit>220</Geschwindigkeit>
+        <Alter>109</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="LEGENDARY">
+        <Lebenspunkte>8157.54</Lebenspunkte>
+        <Angriffsschaden>226.24</Angriffsschaden>
+        <Rüstung>29.58</Rüstung>
+        <Level>34</Level>
+        <Erfahrungspunkte>73</Erfahrungspunkte>
+        <Geschwindigkeit>340</Geschwindigkeit>
+        <Alter>109</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="COMMON">
+        <Lebenspunkte>4448.78</Lebenspunkte>
+        <Angriffsschaden>125.29</Angriffsschaden>
+        <Rüstung>12.02</Rüstung>
+        <Level>55</Level>
+        <Erfahrungspunkte>2</Erfahrungspunkte>
+        <Geschwindigkeit>370</Geschwindigkeit>
+        <Alter>74</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="RARE">
+        <Lebenspunkte>14705.87</Lebenspunkte>
+        <Angriffsschaden>18.61</Angriffsschaden>
+        <Rüstung>11.78</Rüstung>
+        <Level>22</Level>
+        <Erfahrungspunkte>604</Erfahrungspunkte>
+        <Geschwindigkeit>390</Geschwindigkeit>
+        <Alter>117</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="RARE">
+        <Lebenspunkte>19053.07</Lebenspunkte>
+        <Angriffsschaden>267.03</Angriffsschaden>
+        <Rüstung>23.73</Rüstung>
+        <Level>39</Level>
+        <Erfahrungspunkte>995</Erfahrungspunkte>
+        <Geschwindigkeit>370</Geschwindigkeit>
+        <Alter>54</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="EPIC">
+        <Lebenspunkte>9275.5</Lebenspunkte>
+        <Angriffsschaden>473.89</Angriffsschaden>
+        <Rüstung>15.08</Rüstung>
+        <Level>55</Level>
+        <Erfahrungspunkte>661</Erfahrungspunkte>
+        <Geschwindigkeit>190</Geschwindigkeit>
+        <Alter>143</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="COMMON">
+        <Lebenspunkte>19179.43</Lebenspunkte>
+        <Angriffsschaden>39.41</Angriffsschaden>
+        <Rüstung>16.18</Rüstung>
+        <Level>92</Level>
+        <Erfahrungspunkte>58</Erfahrungspunkte>
+        <Geschwindigkeit>250</Geschwindigkeit>
+        <Alter>42</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="COMMON">
+        <Lebenspunkte>9160.96</Lebenspunkte>
+        <Angriffsschaden>133.18</Angriffsschaden>
+        <Rüstung>28.08</Rüstung>
+        <Level>50</Level>
+        <Erfahrungspunkte>222</Erfahrungspunkte>
+        <Geschwindigkeit>400</Geschwindigkeit>
+        <Alter>23</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="RARE">
+        <Lebenspunkte>6068.79</Lebenspunkte>
+        <Angriffsschaden>229.58</Angriffsschaden>
+        <Rüstung>11.11</Rüstung>
+        <Level>36</Level>
+        <Erfahrungspunkte>847</Erfahrungspunkte>
+        <Geschwindigkeit>150</Geschwindigkeit>
+        <Alter>47</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="RARE">
+        <Lebenspunkte>3509.61</Lebenspunkte>
+        <Angriffsschaden>465.79</Angriffsschaden>
+        <Rüstung>27.71</Rüstung>
+        <Level>30</Level>
+        <Erfahrungspunkte>476</Erfahrungspunkte>
+        <Geschwindigkeit>180</Geschwindigkeit>
+        <Alter>48</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="GOD">
+        <Lebenspunkte>17719.99</Lebenspunkte>
+        <Angriffsschaden>417.68</Angriffsschaden>
+        <Rüstung>6.35</Rüstung>
+        <Level>38</Level>
+        <Erfahrungspunkte>609</Erfahrungspunkte>
+        <Geschwindigkeit>250</Geschwindigkeit>
+        <Alter>58</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="COMMON">
+        <Lebenspunkte>13547.12</Lebenspunkte>
+        <Angriffsschaden>32.53</Angriffsschaden>
+        <Rüstung>14.67</Rüstung>
+        <Level>52</Level>
+        <Erfahrungspunkte>452</Erfahrungspunkte>
+        <Geschwindigkeit>90</Geschwindigkeit>
+        <Alter>20</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="LEGENDARY">
+        <Lebenspunkte>17121.57</Lebenspunkte>
+        <Angriffsschaden>126.48</Angriffsschaden>
+        <Rüstung>10.81</Rüstung>
+        <Level>61</Level>
+        <Erfahrungspunkte>706</Erfahrungspunkte>
+        <Geschwindigkeit>370</Geschwindigkeit>
+        <Alter>8</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="LEGENDARY">
+        <Lebenspunkte>9796.65</Lebenspunkte>
+        <Angriffsschaden>383.7</Angriffsschaden>
+        <Rüstung>19.05</Rüstung>
+        <Level>5</Level>
+        <Erfahrungspunkte>954</Erfahrungspunkte>
+        <Geschwindigkeit>300</Geschwindigkeit>
+        <Alter>41</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="GOD">
+        <Lebenspunkte>11812.21</Lebenspunkte>
+        <Angriffsschaden>247.53</Angriffsschaden>
+        <Rüstung>18.72</Rüstung>
+        <Level>72</Level>
+        <Erfahrungspunkte>73</Erfahrungspunkte>
+        <Geschwindigkeit>50</Geschwindigkeit>
+        <Alter>34</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="COMMON">
+        <Lebenspunkte>18764.27</Lebenspunkte>
+        <Angriffsschaden>131.14</Angriffsschaden>
+        <Rüstung>23.56</Rüstung>
+        <Level>98</Level>
+        <Erfahrungspunkte>411</Erfahrungspunkte>
+        <Geschwindigkeit>300</Geschwindigkeit>
+        <Alter>63</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="GOD">
+        <Lebenspunkte>1092.29</Lebenspunkte>
+        <Angriffsschaden>184.34</Angriffsschaden>
+        <Rüstung>17.45</Rüstung>
+        <Level>2</Level>
+        <Erfahrungspunkte>222</Erfahrungspunkte>
+        <Geschwindigkeit>30</Geschwindigkeit>
+        <Alter>28</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="EPIC">
+        <Lebenspunkte>6669.22</Lebenspunkte>
+        <Angriffsschaden>10.15</Angriffsschaden>
+        <Rüstung>4.23</Rüstung>
+        <Level>98</Level>
+        <Erfahrungspunkte>998</Erfahrungspunkte>
+        <Geschwindigkeit>160</Geschwindigkeit>
+        <Alter>34</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="COMMON">
+        <Lebenspunkte>5714.32</Lebenspunkte>
+        <Angriffsschaden>387.68</Angriffsschaden>
+        <Rüstung>28.92</Rüstung>
+        <Level>75</Level>
+        <Erfahrungspunkte>524</Erfahrungspunkte>
+        <Geschwindigkeit>110</Geschwindigkeit>
+        <Alter>117</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="COMMON">
+        <Lebenspunkte>14527.86</Lebenspunkte>
+        <Angriffsschaden>351.57</Angriffsschaden>
+        <Rüstung>23.68</Rüstung>
+        <Level>80</Level>
+        <Erfahrungspunkte>786</Erfahrungspunkte>
+        <Geschwindigkeit>420</Geschwindigkeit>
+        <Alter>82</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="GOD">
+        <Lebenspunkte>7108.56</Lebenspunkte>
+        <Angriffsschaden>290.22</Angriffsschaden>
+        <Rüstung>28.41</Rüstung>
+        <Level>54</Level>
+        <Erfahrungspunkte>470</Erfahrungspunkte>
+        <Geschwindigkeit>110</Geschwindigkeit>
+        <Alter>76</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="LEGENDARY">
+        <Lebenspunkte>12498.21</Lebenspunkte>
+        <Angriffsschaden>232.23</Angriffsschaden>
+        <Rüstung>9.38</Rüstung>
+        <Level>57</Level>
+        <Erfahrungspunkte>267</Erfahrungspunkte>
+        <Geschwindigkeit>280</Geschwindigkeit>
+        <Alter>173</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>9512.24</Lebenspunkte>
+        <Angriffsschaden>155.82</Angriffsschaden>
+        <Rüstung>18.33</Rüstung>
+        <Level>81</Level>
+        <Erfahrungspunkte>606</Erfahrungspunkte>
+        <Geschwindigkeit>140</Geschwindigkeit>
+        <Alter>56</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="EPIC">
+        <Lebenspunkte>67.48</Lebenspunkte>
+        <Angriffsschaden>213.5</Angriffsschaden>
+        <Rüstung>11.46</Rüstung>
+        <Level>35</Level>
+        <Erfahrungspunkte>207</Erfahrungspunkte>
+        <Geschwindigkeit>180</Geschwindigkeit>
+        <Alter>52</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="GOD">
+        <Lebenspunkte>15302.71</Lebenspunkte>
+        <Angriffsschaden>308.95</Angriffsschaden>
+        <Rüstung>3.36</Rüstung>
+        <Level>3</Level>
+        <Erfahrungspunkte>238</Erfahrungspunkte>
+        <Geschwindigkeit>380</Geschwindigkeit>
+        <Alter>1</Alter>
+      </Monster>
+      <Monster Rasse="MINION" Seltenheit="RARE">
+        <Lebenspunkte>7691.72</Lebenspunkte>
+        <Angriffsschaden>91.03</Angriffsschaden>
+        <Rüstung>4.2</Rüstung>
+        <Level>8</Level>
+        <Erfahrungspunkte>128</Erfahrungspunkte>
+        <Geschwindigkeit>310</Geschwindigkeit>
+        <Alter>127</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="GOD">
+        <Lebenspunkte>10885.98</Lebenspunkte>
+        <Angriffsschaden>241.62</Angriffsschaden>
+        <Rüstung>23.08</Rüstung>
+        <Level>5</Level>
+        <Erfahrungspunkte>765</Erfahrungspunkte>
+        <Geschwindigkeit>220</Geschwindigkeit>
+        <Alter>164</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="EPIC">
+        <Lebenspunkte>8079.4</Lebenspunkte>
+        <Angriffsschaden>162.85</Angriffsschaden>
+        <Rüstung>19.59</Rüstung>
+        <Level>22</Level>
+        <Erfahrungspunkte>107</Erfahrungspunkte>
+        <Geschwindigkeit>170</Geschwindigkeit>
+        <Alter>111</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="COMMON">
+        <Lebenspunkte>16468.99</Lebenspunkte>
+        <Angriffsschaden>424.68</Angriffsschaden>
+        <Rüstung>1.21</Rüstung>
+        <Level>59</Level>
+        <Erfahrungspunkte>267</Erfahrungspunkte>
+        <Geschwindigkeit>130</Geschwindigkeit>
+        <Alter>25</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="LEGENDARY">
+        <Lebenspunkte>2976.88</Lebenspunkte>
+        <Angriffsschaden>499.45</Angriffsschaden>
+        <Rüstung>3.84</Rüstung>
+        <Level>29</Level>
+        <Erfahrungspunkte>335</Erfahrungspunkte>
+        <Geschwindigkeit>20</Geschwindigkeit>
+        <Alter>21</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="RARE">
+        <Lebenspunkte>19468.87</Lebenspunkte>
+        <Angriffsschaden>288.76</Angriffsschaden>
+        <Rüstung>7.07</Rüstung>
+        <Level>27</Level>
+        <Erfahrungspunkte>569</Erfahrungspunkte>
+        <Geschwindigkeit>100</Geschwindigkeit>
+        <Alter>190</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="LEGENDARY">
+        <Lebenspunkte>19627.39</Lebenspunkte>
+        <Angriffsschaden>371.32</Angriffsschaden>
+        <Rüstung>15.76</Rüstung>
+        <Level>99</Level>
+        <Erfahrungspunkte>952</Erfahrungspunkte>
+        <Geschwindigkeit>400</Geschwindigkeit>
+        <Alter>125</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>17837.02</Lebenspunkte>
+        <Angriffsschaden>473.75</Angriffsschaden>
+        <Rüstung>16.49</Rüstung>
+        <Level>25</Level>
+        <Erfahrungspunkte>886</Erfahrungspunkte>
+        <Geschwindigkeit>70</Geschwindigkeit>
+        <Alter>106</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="COMMON">
+        <Lebenspunkte>2764.19</Lebenspunkte>
+        <Angriffsschaden>258.02</Angriffsschaden>
+        <Rüstung>6.43</Rüstung>
+        <Level>36</Level>
+        <Erfahrungspunkte>30</Erfahrungspunkte>
+        <Geschwindigkeit>90</Geschwindigkeit>
+        <Alter>175</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="LEGENDARY">
+        <Lebenspunkte>2259.8</Lebenspunkte>
+        <Angriffsschaden>42.74</Angriffsschaden>
+        <Rüstung>16.58</Rüstung>
+        <Level>59</Level>
+        <Erfahrungspunkte>585</Erfahrungspunkte>
+        <Geschwindigkeit>110</Geschwindigkeit>
+        <Alter>194</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="EPIC">
+        <Lebenspunkte>15822.3</Lebenspunkte>
+        <Angriffsschaden>81.91</Angriffsschaden>
+        <Rüstung>4.5</Rüstung>
+        <Level>21</Level>
+        <Erfahrungspunkte>18</Erfahrungspunkte>
+        <Geschwindigkeit>190</Geschwindigkeit>
+        <Alter>88</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="COMMON">
+        <Lebenspunkte>14033.86</Lebenspunkte>
+        <Angriffsschaden>178.68</Angriffsschaden>
+        <Rüstung>1.89</Rüstung>
+        <Level>82</Level>
+        <Erfahrungspunkte>320</Erfahrungspunkte>
+        <Geschwindigkeit>120</Geschwindigkeit>
+        <Alter>140</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="RARE">
+        <Lebenspunkte>7657.19</Lebenspunkte>
+        <Angriffsschaden>200.82</Angriffsschaden>
+        <Rüstung>17.71</Rüstung>
+        <Level>79</Level>
+        <Erfahrungspunkte>382</Erfahrungspunkte>
+        <Geschwindigkeit>250</Geschwindigkeit>
+        <Alter>146</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="COMMON">
+        <Lebenspunkte>10729.14</Lebenspunkte>
+        <Angriffsschaden>224.99</Angriffsschaden>
+        <Rüstung>28.29</Rüstung>
+        <Level>64</Level>
+        <Erfahrungspunkte>356</Erfahrungspunkte>
+        <Geschwindigkeit>190</Geschwindigkeit>
+        <Alter>123</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="COMMON">
+        <Lebenspunkte>8601.56</Lebenspunkte>
+        <Angriffsschaden>217.66</Angriffsschaden>
+        <Rüstung>25.66</Rüstung>
+        <Level>70</Level>
+        <Erfahrungspunkte>298</Erfahrungspunkte>
+        <Geschwindigkeit>370</Geschwindigkeit>
+        <Alter>46</Alter>
+      </Monster>
+      <Monster Rasse="CREEPER" Seltenheit="LEGENDARY">
+        <Lebenspunkte>14020.06</Lebenspunkte>
+        <Angriffsschaden>427.38</Angriffsschaden>
+        <Rüstung>19.34</Rüstung>
+        <Level>83</Level>
+        <Erfahrungspunkte>255</Erfahrungspunkte>
+        <Geschwindigkeit>270</Geschwindigkeit>
+        <Alter>165</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="EPIC">
+        <Lebenspunkte>4110.53</Lebenspunkte>
+        <Angriffsschaden>386.58</Angriffsschaden>
+        <Rüstung>1.6</Rüstung>
+        <Level>22</Level>
+        <Erfahrungspunkte>362</Erfahrungspunkte>
+        <Geschwindigkeit>420</Geschwindigkeit>
+        <Alter>76</Alter>
+      </Monster>
+      <Monster Rasse="SPIDER" Seltenheit="EPIC">
+        <Lebenspunkte>16834.55</Lebenspunkte>
+        <Angriffsschaden>268.58</Angriffsschaden>
+        <Rüstung>10.15</Rüstung>
+        <Level>27</Level>
+        <Erfahrungspunkte>705</Erfahrungspunkte>
+        <Geschwindigkeit>280</Geschwindigkeit>
+        <Alter>12</Alter>
+      </Monster>
+      <Monster Rasse="ZOMBIE" Seltenheit="GOD">
+        <Lebenspunkte>10521.68</Lebenspunkte>
+        <Angriffsschaden>89.2</Angriffsschaden>
+        <Rüstung>12.91</Rüstung>
+        <Level>51</Level>
+        <Erfahrungspunkte>696</Erfahrungspunkte>
+        <Geschwindigkeit>420</Geschwindigkeit>
+        <Alter>120</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="RARE">
+        <Lebenspunkte>15735.28</Lebenspunkte>
+        <Angriffsschaden>128.98</Angriffsschaden>
+        <Rüstung>10.7</Rüstung>
+        <Level>92</Level>
+        <Erfahrungspunkte>611</Erfahrungspunkte>
+        <Geschwindigkeit>50</Geschwindigkeit>
+        <Alter>107</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="EPIC">
+        <Lebenspunkte>9569.74</Lebenspunkte>
+        <Angriffsschaden>329.46</Angriffsschaden>
+        <Rüstung>25.98</Rüstung>
+        <Level>44</Level>
+        <Erfahrungspunkte>213</Erfahrungspunkte>
+        <Geschwindigkeit>340</Geschwindigkeit>
+        <Alter>49</Alter>
+      </Monster>
+      <Monster Rasse="BARON" Seltenheit="COMMON">
+        <Lebenspunkte>9181.98</Lebenspunkte>
+        <Angriffsschaden>403.71</Angriffsschaden>
+        <Rüstung>3.5</Rüstung>
+        <Level>5</Level>
+        <Erfahrungspunkte>583</Erfahrungspunkte>
+        <Geschwindigkeit>410</Geschwindigkeit>
+        <Alter>122</Alter>
+      </Monster>
+      <Monster Rasse="HARALD" Seltenheit="LEGENDARY">
+        <Lebenspunkte>14279.27</Lebenspunkte>
+        <Angriffsschaden>268.91</Angriffsschaden>
+        <Rüstung>20.51</Rüstung>
+        <Level>22</Level>
+        <Erfahrungspunkte>263</Erfahrungspunkte>
+        <Geschwindigkeit>130</Geschwindigkeit>
+        <Alter>101</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="LEGENDARY">
+        <Lebenspunkte>14598.39</Lebenspunkte>
+        <Angriffsschaden>280.58</Angriffsschaden>
+        <Rüstung>13.42</Rüstung>
+        <Level>75</Level>
+        <Erfahrungspunkte>614</Erfahrungspunkte>
+        <Geschwindigkeit>240</Geschwindigkeit>
+        <Alter>52</Alter>
+      </Monster>
+      <Monster Rasse="GHAST" Seltenheit="GOD">
+        <Lebenspunkte>10079.43</Lebenspunkte>
+        <Angriffsschaden>477.11</Angriffsschaden>
+        <Rüstung>11.46</Rüstung>
+        <Level>73</Level>
+        <Erfahrungspunkte>722</Erfahrungspunkte>
+        <Geschwindigkeit>20</Geschwindigkeit>
+        <Alter>156</Alter>
+      </Monster>
+    </Monsters>
+  </Game>
+</Games>

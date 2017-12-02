@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Xml.Linq;
 
@@ -192,7 +193,7 @@ namespace Projekt_ConsoleGameApp
 
         #endregion
 
-        #region Create Hero/Player/Monster
+        #region Create Random Hero, Player, Monster, Game
 
         /// <summary>
         /// Erstellt ein neues Monster mit zufälligen Werten
@@ -403,9 +404,19 @@ namespace Projekt_ConsoleGameApp
                         new XElement("Geschwindigkeit", h.MovementSpeed),
                         new XElement("Alter", h.Age),
                         new XElement("Motto", h.Motto),
-                        new XElement("Fähigkeit",
-                            new XElement("AbilityName", h.SpecialAbility.AbilityName),
-                            new XElement("AbilityDescription", h.SpecialAbility.AbilityDescription)));
+                        Create_Ability_Tree(h.SpecialAbility));
+        }
+
+        /// <summary>
+        /// Erstellt einen XML Tree für Ability (<see cref="Ability"/>)
+        /// </summary>
+        /// <param name="ability">Fähigkeit des Helden</param>
+        /// <returns>XML Tree Ability</returns>
+        public static XElement Create_Ability_Tree(Ability ability)
+        {
+            return new XElement("Fähigkeit",
+                            new XElement("AbilityName", ability.AbilityName),
+                            new XElement("AbilityDescription", ability.AbilityDescription));
         }
 
         #endregion
@@ -550,6 +561,15 @@ namespace Projekt_ConsoleGameApp
         #region Create Random XML Trees
 
         /// <summary>
+        /// Erstellt einen zufälligen XML Tree für eine Fähigkeit (<see cref="Ability"/>)
+        /// </summary>
+        /// <returns>XML Tree Ability</returns>
+        public static XElement Create_Random_Ability_Tree()
+        {
+            return Create_Ability_Tree(Random_Ability());
+        }
+
+        /// <summary>
         /// Erstellt einen zufälligen XML Tree für Helden
         /// </summary>
         /// <param name="anz">Anzahl der Helden, Standardwert = 6</param>
@@ -594,9 +614,88 @@ namespace Projekt_ConsoleGameApp
 
         #endregion
 
+        #region File Write, Read
+
+        /// <summary>
+        /// Erstellt ein neues XML File und speichert den Tree hinein
+        /// </summary>
+        /// <param name="tree">XML Tree</param>
+        /// <param name="fileName">Name der Datei</param>
+        public static void Write_XML_Tree_NewFile(XElement tree, string fileName)
+        {
+            string path = "../../XML/" + fileName;
+
+            if(File.Exists(path))
+            {
+                throw new Exception("File existiert bereits");
+            }
+
+            tree.Save(path);
+        }
+
+        /// <summary>
+        /// Liest aus einem XML Baum eine Ability heraus
+        /// </summary>
+        /// <param name="tree">XML Tree Ability</param>
+        /// <returns>Ability</returns>
+        public static Ability Read_XML_Tree_Ability(XElement tree)
+        {
+            return new Ability { AbilityName = tree.Element("AbilityName").Value, AbilityDescription = tree.Element("AbilityDescription").Value };
+        }
+
+        /// <summary>
+        /// Liest aus einem XML Baum einen Helden heraus
+        /// </summary>
+        /// <param name="tree">XML Tree Hero</param>
+        /// <returns>Hero</returns>
+        public static Hero Read_XML_Tree_Hero(XElement tree)
+        {
+            return new Hero
+            {
+                Age = Int32.Parse(tree.Element("Alter").Value),
+                Armor = Double.Parse(tree.Element("Rüstung").Value.Replace('.', ',')),
+                AttackDamage = Double.Parse(tree.Element("Angriffsschaden").Value.Replace('.', ',')),
+                ExperiencePoints = Int32.Parse(tree.Element("Erfahrungspunkte").Value),
+                HeroClass = (ClassType) Enum.Parse(typeof(ClassType), tree.Element("HeldenKlasse").Value),
+                HP = Double.Parse(tree.Element("Lebenspunkte").Value.Replace('.', ',')),
+                Level = Int32.Parse(tree.Element("Level").Value),
+                Motto = tree.Element("Motto").Value,
+                MovementSpeed = Int32.Parse(tree.Element("Geschwindigkeit").Value),
+                Name = tree.Attribute("Name").Value,
+                Race = (RaceType)Enum.Parse(typeof(RaceType), tree.Attribute("Rasse").Value),
+                SpecialAbility = Read_XML_Tree_Ability(tree.Element("Fähigkeit")),
+            }; 
+        }
+
+        /// <summary>
+        /// Liest aus einem XML Baum alle Helden heraus
+        /// </summary>
+        /// <param name="tree">XML Tree Heroes</param>
+        /// <returns>Liste von Helden</returns>
+        public static List<Hero> Read_XML_Tree_Heroes(XElement tree)
+        {
+            List<Hero> liste = new List<Hero>();
+            var erg = tree.Elements("Held");
+            erg.ToList().ForEach(h => liste.Add(Read_XML_Tree_Hero(h)));
+            return liste;
+        }
+
+        /// <summary>
+        /// Liest aus einem XML Baum einen Helden heraus
+        /// </summary>
+        /// <param name="tree">XML Tree Player</param>
+        /// <returns>Player</returns>
+        public static Player Read_XML_Tree_Player(XElement tree)
+        {
+            return new Player
+            {
+                Heroes = Read_XML_Tree_Heroes(tree.Element("Heroes"))
+            };
+        }
+
         #endregion
 
-        // 250 Player, 1000 Heroes
+        #endregion
 
     }
 }
