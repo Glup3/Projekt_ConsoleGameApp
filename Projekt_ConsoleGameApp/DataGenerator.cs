@@ -689,7 +689,12 @@ namespace Projekt_ConsoleGameApp
         {
             return new Player
             {
-                Heroes = Read_XML_Tree_Heroes(tree.Element("Heroes"))
+                Heroes = Read_XML_Tree_Heroes(tree.Element("Heroes")),
+                InGameName = tree.Element("InGameName").Value,
+                Money = Double.Parse(tree.Element("Money").Value.Replace('.', ',')),
+                Password = tree.Attribute("Password").Value,
+                Username = tree.Attribute("Username").Value,
+                PlayedTime = Int32.Parse(tree.Element("Spielzeit").Value)
             };
         }
 
