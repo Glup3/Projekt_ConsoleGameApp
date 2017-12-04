@@ -609,8 +609,16 @@ namespace Projekt_ConsoleGameApp
             return Create_Games_Tree(Create_Random_Games(anz));
         }
 
-
-
+        /// <summary>
+        /// Erstellt einen zufälligen XML Tree für ein Spiel
+        /// </summary>
+        /// <param name="anzPl">Anzahl der Spieler</param>
+        /// <param name="anzMl">Anzahl der Monster</param>
+        /// <returns>XML Tree Game</returns>
+        public static XElement Create_Random_Game_Tree(int anzPl = 4, int anzMl = 50)
+        {
+            return Create_Game_Tree(Create_Random_Game(anzPl, anzMl));
+        }
 
         #endregion
 
@@ -656,15 +664,49 @@ namespace Projekt_ConsoleGameApp
                 Armor = Double.Parse(tree.Element("Rüstung").Value.Replace('.', ',')),
                 AttackDamage = Double.Parse(tree.Element("Angriffsschaden").Value.Replace('.', ',')),
                 ExperiencePoints = Int32.Parse(tree.Element("Erfahrungspunkte").Value),
-                HeroClass = (ClassType) Enum.Parse(typeof(ClassType), tree.Element("HeldenKlasse").Value),
                 HP = Double.Parse(tree.Element("Lebenspunkte").Value.Replace('.', ',')),
                 Level = Int32.Parse(tree.Element("Level").Value),
-                Motto = tree.Element("Motto").Value,
                 MovementSpeed = Int32.Parse(tree.Element("Geschwindigkeit").Value),
                 Name = tree.Attribute("Name").Value,
                 Race = (RaceType)Enum.Parse(typeof(RaceType), tree.Attribute("Rasse").Value),
+                HeroClass = (ClassType) Enum.Parse(typeof(ClassType), tree.Element("HeldenKlasse").Value),
+                Motto = tree.Element("Motto").Value,
                 SpecialAbility = Read_XML_Tree_Ability(tree.Element("Fähigkeit")),
             }; 
+        }
+
+        /// <summary>
+        /// Liest aus einem XML Baum einen Helden heraus
+        /// </summary>
+        /// <param name="tree">XML Tree Monster</param>
+        /// <returns>Monster</returns>
+        public static Monster Read_XML_Tree_Monster(XElement tree)
+        {
+            return new Monster
+            {
+                Age = Int32.Parse(tree.Element("Alter").Value),
+                Armor = Double.Parse(tree.Element("Rüstung").Value.Replace('.', ',')),
+                AttackDamage = Double.Parse(tree.Element("Angriffsschaden").Value.Replace('.', ',')),
+                ExperiencePoints = Int32.Parse(tree.Element("Erfahrungspunkte").Value),
+                HP = Double.Parse(tree.Element("Lebenspunkte").Value.Replace('.', ',')),
+                Level = Int32.Parse(tree.Element("Level").Value),
+                MovementSpeed = Int32.Parse(tree.Element("Geschwindigkeit").Value),
+                MonsterRace = (MonsterType)Enum.Parse(typeof(MonsterType), tree.Attribute("Rasse").Value),
+                MonsterRarity = (Rarity)Enum.Parse(typeof(Rarity), tree.Attribute("Seltenheit").Value),
+            };
+        }
+
+        /// <summary>
+        /// Liest aus einem XML Baum alle Monster heraus
+        /// </summary>
+        /// <param name="tree">XML Tree Monsters</param>
+        /// <returns>Liste von Monstern</returns>
+        public static List<Monster> Read_XML_Tree_Monsters(XElement tree)
+        {
+            List<Monster> liste = new List<Monster>();
+            var erg = tree.Elements("Monster");
+            erg.ToList().ForEach(m => liste.Add(Read_XML_Tree_Monster(m)));
+            return liste;
         }
 
         /// <summary>
@@ -681,7 +723,7 @@ namespace Projekt_ConsoleGameApp
         }
 
         /// <summary>
-        /// Liest aus einem XML Baum einen Helden heraus
+        /// Liest aus einem XML Baum einen Spieler heraus
         /// </summary>
         /// <param name="tree">XML Tree Player</param>
         /// <returns>Player</returns>
@@ -696,6 +738,41 @@ namespace Projekt_ConsoleGameApp
                 Username = tree.Attribute("Username").Value,
                 PlayedTime = Int32.Parse(tree.Element("Spielzeit").Value)
             };
+        }
+
+        /// <summary>
+        /// Liest aus einem XML Baum mehrere Spieler heraus
+        /// </summary>
+        /// <param name="tree">XML Tree Players</param>
+        /// <returns>PlayerList</returns>
+        public static PlayerList Read_XML_Tree_Players(XElement tree)
+        {
+            PlayerList pl = new PlayerList();
+
+            var erg1 = tree.Elements("Player");
+            erg1.ToList().ForEach(p => pl.Add_Player(Read_XML_Tree_Player(p)));
+
+            return pl;
+        }
+
+        /// <summary>
+        /// Liest aus einem XML Baum ein Spiel heraus
+        /// </summary>
+        /// <param name="tree">XML Tree Game</param>
+        /// <returns>Game</returns>
+        public static Game Read_XML_Tree_Game(XElement tree)
+        {
+            Game g = new Game();
+
+            var erg1 = Read_XML_Tree_Players(tree.Element("Players"));
+
+            var erg2 = Read_XML_Tree_Monsters(tree.Element("Monsters"));
+
+            g.GameName = tree.Attribute("GameName").Value;
+            g.PlayerListe = erg1;
+            g.MonsterListe = erg2;
+
+            return g;
         }
 
         #endregion

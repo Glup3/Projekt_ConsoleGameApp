@@ -65,5 +65,17 @@ namespace Projekt_ConsoleGameApp
         }
 
         #endregion
+
+        #region Überschriebene Methoden
+
+        public override string ToString()
+        {
+            string txt = "Players:";
+            liste.ForEach(p => txt += $"\n\t{p}");
+            return txt;
+        }
+
+        #endregion
+
     }
 }

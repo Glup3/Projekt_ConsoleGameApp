@@ -11,28 +11,9 @@ namespace Projekt_ConsoleGameApp
     {
         static void Main(string[] args)
         {
-            /*
-            try
-            {
-                DataGenerator.Write_XML_Tree_NewFile(DataGenerator.Create_Random_Games_Tree(), "game2.xml");
-            }
-            catch(Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
-            */
+            var erg = DataGenerator.Read_XML_Tree_Game(DataGenerator.Create_Random_Game_Tree());
 
-            
-
-            for (int i = 0; i < 10; i++)
-            {
-                Hero h = DataGenerator.Create_Random_Hero();
-                Hero h2 = DataGenerator.Create_Random_Hero();
-                Player p = DataGenerator.Create_Random_Player(new List<Hero>() { h, h2 });
-                XElement erg1 = DataGenerator.Create_Player_Tree(p);
-                Console.WriteLine(DataGenerator.Read_XML_Tree_Player(erg1));
-
-            }
+            Console.WriteLine(erg.PlayerListe);
 
             Console.ReadLine();
         }
