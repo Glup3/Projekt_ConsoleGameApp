@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Xml.Linq;
 
 namespace Projekt_ConsoleGameApp
 {
@@ -9,11 +7,15 @@ namespace Projekt_ConsoleGameApp
     /// </summary>
     public class Program
     {
+        /// <summary>
+        /// Klasse um Funktionen zu testen
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
-            var erg = DataGenerator.Read_XML_Tree_Game(DataGenerator.Create_Random_Game_Tree());
-
-            Console.WriteLine(erg.PlayerListe);
+            /*
+             *  Code 
+             */
 
             Console.ReadLine();
         }
