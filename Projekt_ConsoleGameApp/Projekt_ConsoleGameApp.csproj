@@ -62,11 +62,11 @@
     <None Include="App.config" />
     <None Include="Projekt.cd" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="XML\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Projekt.png" />
+    <Content Include="XML\game1.xml" />
+    <Content Include="XML\game2.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

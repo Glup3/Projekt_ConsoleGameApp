@@ -9,6 +9,9 @@ namespace UnitTestProject
     [TestClass]
     public class UnitTest1
     {
+        /// <summary>
+        /// Testet die Methode <see cref="DataGenerator.Random_Age(int, int)"/>
+        /// </summary>
         [TestMethod]
         public void Test_Random_Age()
         {
@@ -24,6 +27,9 @@ namespace UnitTestProject
             Assert.IsTrue(between);
         }
 
+        /// <summary>
+        /// Prüft ob das XML File 3 Spiele enthält
+        /// </summary>
         [TestMethod]
         public void Test_Game2XML_Count()
         {
