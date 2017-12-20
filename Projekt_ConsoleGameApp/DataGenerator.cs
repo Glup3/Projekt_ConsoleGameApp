@@ -775,6 +775,21 @@ namespace Projekt_ConsoleGameApp
             return g;
         }
 
+        /// <summary>
+        /// Liest aus einem XML Baum Spiele heraus
+        /// </summary>
+        /// <param name="tree">XML Tree Games</param>
+        /// <returns>Games</returns>
+        public static List<Game> Read_XML_Tree_Games(XElement tree)
+        {
+            List<Game> games = new List<Game>();
+
+            var erg = tree.Elements("Games");
+            erg.ToList().ForEach(a => games.Add(Read_XML_Tree_Game(a)));
+
+            return games;
+        }
+
         #endregion
 
         #endregion
