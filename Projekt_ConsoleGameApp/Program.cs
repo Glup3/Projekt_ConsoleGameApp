@@ -16,6 +16,7 @@ namespace Projekt_ConsoleGameApp
             /*
              *  Code 
              */
+            DataGenerator.Write_XML_Tree_NewFile(DataGenerator.Create_Random_Games_Tree(8), "game3");
 
             Console.ReadLine();
         }

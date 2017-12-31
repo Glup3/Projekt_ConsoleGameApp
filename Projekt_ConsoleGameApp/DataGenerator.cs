@@ -628,10 +628,10 @@ namespace Projekt_ConsoleGameApp
         /// Erstellt ein neues XML File und speichert den Tree hinein
         /// </summary>
         /// <param name="tree">XML Tree</param>
-        /// <param name="fileName">Name der Datei</param>
+        /// <param name="fileName">Name der Datei ohne Dateiendung</param>
         public static void Write_XML_Tree_NewFile(XElement tree, string fileName)
         {
-            string path = "../../XML/" + fileName;
+            string path = "../../XML/" + fileName + ".xml";
 
             if(File.Exists(path))
             {
@@ -784,7 +784,7 @@ namespace Projekt_ConsoleGameApp
         {
             List<Game> games = new List<Game>();
 
-            var erg = tree.Elements("Games");
+            var erg = tree.Elements("Game");
             erg.ToList().ForEach(a => games.Add(Read_XML_Tree_Game(a)));
 
             return games;

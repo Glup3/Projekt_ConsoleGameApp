@@ -61,6 +61,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Projekt.cd" />
+    <Content Include="XML\game3.xml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

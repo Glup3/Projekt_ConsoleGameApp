@@ -70,8 +70,8 @@ namespace Projekt_ConsoleGameApp
 
         public override string ToString()
         {
-            string txt = "Players:";
-            liste.ForEach(p => txt += $"\n\t{p}");
+            string txt = "";
+            liste.ForEach(p => txt += p.InGameName + "\n");
             return txt;
         }
 
